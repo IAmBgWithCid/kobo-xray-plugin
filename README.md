@@ -16,7 +16,9 @@ A Calibre plugin that generates Kindle X-Ray style metadata for Kobo using NLP
 - Calibre Plugin API
 
 ## Progress
-- [ ] Basic text extraction from epub
+- [x] Basic text extraction from epub
+  - Chapter filtering working (prologue, epilogue, parts)
+  - Image tag stripping still needed
 - [ ] NER with spaCy
 - [ ] Character relationship mapping
 - [ ] LLM description generation
