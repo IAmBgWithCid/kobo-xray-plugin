@@ -13,6 +13,9 @@ for item in book.get_items_of_type(ITEM_DOCUMENT):
     if any(keyword in item.get_name() for keyword in ["chapter", "prologue", "epilogue", "part"]):
         #removing html tags
         soap = BeautifulSoup(item.get_body_content(), 'html.parser')
+        #removing images
+        for s in soap.find_all("img"):
+            s.decompose()
         #storing chapter to dictionary
         chapters[item.get_name()] = "\n".join(" ".join(line.split()) for line in soap.get_text().splitlines() if line.strip())
 
