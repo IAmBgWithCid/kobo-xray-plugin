@@ -14,7 +14,7 @@ for item in book.get_items_of_type(ITEM_DOCUMENT):
         #removing html tags
         soap = BeautifulSoup(item.get_body_content(), 'html.parser')
         #storing chapter to dictionary
-        chapters[item.get_name()] = soap.get_text()
+        chapters[item.get_name()] = "\n".join(" ".join(line.split()) for line in soap.get_text().splitlines() if line.strip())
 
 count = 0
 # just to verify we go the chapter
