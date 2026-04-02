@@ -18,7 +18,7 @@ def extract_chapters(path:str) -> dict:
             continue
 
         #filtering out acknolegements and endnotes etc.
-        if any(keyword in item.get_name() for keyword in ["chapter", "prologue", "epilogue", "part"]):
+        if any(keyword in item.get_name() for keyword in ["chapter", "prologue", "epilogue"]):
             #removing html tags
             soap = BeautifulSoup(item.get_body_content(), 'html.parser')
             #removing images
