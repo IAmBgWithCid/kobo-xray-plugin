@@ -25,8 +25,8 @@ def extract_chapters(path:str) -> dict:
             for s in soap.find_all("img"):
                 s.decompose()
             #storing chapter to dictionary
-            chapters[item.get_name()] = "\n".join(" ".join(line.split()) for line in soap.get_text().splitlines() if line.strip())
-        
+            chapters[item.get_name()] = "\n\n".join(" ".join(p.get_text().split()) for p in soap.find_all("p") if p.get_text().strip())
+
     return chapters
 
 

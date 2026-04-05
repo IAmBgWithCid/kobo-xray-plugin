@@ -5,6 +5,7 @@ from Extractor import extract_chapters
 nltk.download('words')
 from nltk.corpus import words as nltk_words
 ENGLISH_WORDS = set(w.lower() for w in nltk_words.words())
+import json
 
 nlp = spacy.load("en_core_web_trf")
 #labels to extract: PERSON, GPE, LOC, FAC, PRODUCT, ORG
@@ -52,8 +53,8 @@ def ner_extraction(chapters: dict) -> dict:
             #only add the entity if it hasn't been seen before, and store the context of the first occurrence
             if entity_key not in entity_map:
                 #find the line of the first occurrence and store the surrounding text as context
-                starting_line = text.rfind("\n", 0, ent.start_char)
-                ending_line = text.find("\n", ent.end_char)  
+                starting_line = text.rfind("\n\n", 0, ent.start_char)
+                ending_line = text.find("\n\n", ent.end_char)  
                 if starting_line == -1:
                     starting_line = 0
                 if ending_line == -1:
@@ -65,9 +66,20 @@ def ner_extraction(chapters: dict) -> dict:
                     "aliases": [],
                     "frequency": 1,
                     #store the context of the first occurrence, which is the surrounding text of the entity
-                    "context": text[starting_line:ending_line].strip()
+                    "context": [text[starting_line:ending_line].strip()]
                 }
             else:
+                if len(entity_map[entity_key]["context"]) < 3:  # Only store context for the first few occurrences to save memory
+                    starting_line = text.rfind("\n\n", 0, ent.start_char)
+                    ending_line = text.find("\n\n", ent.end_char)  
+                    if starting_line == -1:
+                        starting_line = 0
+                    if ending_line == -1:
+                        ending_line = len(text)  
+                    new_context = text[starting_line:ending_line].strip() 
+                    if new_context not in entity_map[entity_key]["context"]:
+                        entity_map[entity_key]["context"].append(new_context)
+
                 entity_map[entity_key]["frequency"] += 1
     
     return entity_map
@@ -108,12 +120,13 @@ def co_occurrence_relation(entity_map: dict, chapters: dict) -> dict:
         
         
 
-if __name__ == "__main__":
-    path = "The Way of Kings_ The Stormlight Archive.epub"
-    chapters = extract_chapters(path)
+def extract_from_epub(epub_path: str) -> dict:
+    print(f"📖 Extracting chapters from {epub_path}...")
+    chapters = extract_chapters(epub_path)
+    print("🧠 Running NLP Entity Extraction...")
     entity_map = ner_extraction(chapters)
+    print("🔗 Mapping Substring Relations...")
     entity_map = substring_relation(entity_map)
+    print("🔗 Mapping Co-occurrence Relations...")
     entity_map = co_occurrence_relation(entity_map, chapters)
-
-    for name, data in entity_map.items():
-        print(f"{name} | {data['type']} | first seen: chapter {data['first_occurrence']}| aliases: {data['aliases']} | frequency: {data['frequency']} | context: {data['context'][:50]}...")
+    return entity_map

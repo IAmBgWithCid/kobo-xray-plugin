@@ -22,7 +22,6 @@ A Calibre plugin that generates Kindle X-Ray style metadata for Kobo using NLP
 - [x] NER with spaCy
   - Created NER map 
   - Need Aliase filtering and cleaning
-- [ ] Character relationship mapping
 - [ ] LLM description generation
 - [ ] Calibre plugin wrapper
 - [ ] Kobo metadata format
