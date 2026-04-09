@@ -2,13 +2,14 @@ import string
 import nltk
 import spacy
 from Extractor import extract_chapters
-nltk.download('words')
-from nltk.corpus import words as nltk_words
-ENGLISH_WORDS = set(w.lower() for w in nltk_words.words())
-import json
 
 nlp = spacy.load("en_core_web_trf")
-#labels to extract: PERSON, GPE, LOC, FAC, PRODUCT, ORG
+
+nltk.download('words', quiet=True)
+from nltk.corpus import words as nltk_words
+ENGLISH_WORDS = set(w.lower() for w in nltk_words.words())
+
+
 LABEL_MAP = {
     "PERSON": "character",
     "GPE": "location",
@@ -17,71 +18,66 @@ LABEL_MAP = {
     "PRODUCT": "item",
     "ORG": "faction",
 }
-#extract entities, filter by label, and store in a map with type, first occurrence, summary history, aliases, and context
+
 def ner_extraction(chapters: dict) -> dict:
     entity_map = {}
     
+    # 2. Break chapters into smaller chunks (paragraphs) to prevent CUDA OOM errors
+    chunked_data = []
     for chapter_num, (filename, text) in enumerate(chapters.items(), start=1):
-        doc = nlp(text)
-        
+        paragraphs = [p.strip() for p in text.split('\n\n') if len(p.strip()) > 10]
+        for para in paragraphs:
+            chunked_data.append((chapter_num, para))
+            
+    
+    texts_only = [chunk[1] for chunk in chunked_data]
+    
+    
+    for (chapter_num, original_text), doc in zip(chunked_data, nlp.pipe(texts_only, batch_size=256)):
         for ent in doc.ents:
             if ent.label_ not in LABEL_MAP:
                 continue
             
             entity_key = ent.text.lower().replace('\u2019', "'").strip(string.punctuation)
             words = entity_key.split()
+            
             while words and words[0] in nlp.Defaults.stop_words:
                 words.pop(0)
             while words and words[-1] in nlp.Defaults.stop_words:
                 words.pop()
+            
+            if not words:
+                continue
+                
             entity_key = " ".join(words)
             category = LABEL_MAP[ent.label_]
+            
             if entity_key.endswith("'s"):
                 entity_key = entity_key[:-2]
             
-            if "\n" in entity_key:
+            if "\n" in entity_key or "?" in entity_key:
                 continue
-            if "?" in entity_key:
-                continue
-            #filter out stop words and short entities
-            if nlp.vocab[entity_key].is_stop:
-                continue
-            if len(entity_key) < 3:
+            if nlp.vocab[entity_key].is_stop or len(entity_key) < 3:
                 continue
             if " " not in entity_key and entity_key in ENGLISH_WORDS:
                 continue
-            #only add the entity if it hasn't been seen before, and store the context of the first occurrence
+            
+            
             if entity_key not in entity_map:
-                #find the line of the first occurrence and store the surrounding text as context
-                starting_line = text.rfind("\n\n", 0, ent.start_char)
-                ending_line = text.find("\n\n", ent.end_char)  
-                if starting_line == -1:
-                    starting_line = 0
-                if ending_line == -1:
-                    ending_line = len(text)   
                 entity_map[entity_key] = {
                     "type": category,
                     "first_occurrence": chapter_num,
                     "summary_history": [],
                     "aliases": [],
                     "frequency": 1,
-                    #store the context of the first occurrence, which is the surrounding text of the entity
-                    "context": [text[starting_line:ending_line].strip()]
+                    "context": [original_text]
                 }
             else:
-                if len(entity_map[entity_key]["context"]) < 3:  # Only store context for the first few occurrences to save memory
-                    starting_line = text.rfind("\n\n", 0, ent.start_char)
-                    ending_line = text.find("\n\n", ent.end_char)  
-                    if starting_line == -1:
-                        starting_line = 0
-                    if ending_line == -1:
-                        ending_line = len(text)  
-                    new_context = text[starting_line:ending_line].strip() 
-                    if new_context not in entity_map[entity_key]["context"]:
-                        entity_map[entity_key]["context"].append(new_context)
-
+                if len(entity_map[entity_key]["context"]) < 3:
+                    if original_text not in entity_map[entity_key]["context"]:
+                        entity_map[entity_key]["context"].append(original_text)
                 entity_map[entity_key]["frequency"] += 1
-    
+                
     return entity_map
 
 #find substring relations between entities and add them as aliases
@@ -121,12 +117,12 @@ def co_occurrence_relation(entity_map: dict, chapters: dict) -> dict:
         
 
 def extract_from_epub(epub_path: str) -> dict:
-    print(f"📖 Extracting chapters from {epub_path}...")
+    print(f" Extracting chapters from {epub_path}...")
     chapters = extract_chapters(epub_path)
-    print("🧠 Running NLP Entity Extraction...")
+    print(" Running NLP Entity Extraction...")
     entity_map = ner_extraction(chapters)
-    print("🔗 Mapping Substring Relations...")
+    print(" Mapping Substring Relations...")
     entity_map = substring_relation(entity_map)
-    print("🔗 Mapping Co-occurrence Relations...")
+    print(" Mapping Co-occurrence Relations...")
     entity_map = co_occurrence_relation(entity_map, chapters)
     return entity_map

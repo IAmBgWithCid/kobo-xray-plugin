@@ -1,0 +1,2486 @@
+[
+    {
+        "entity": "stormfather",
+        "summary": "The Stormfather is a divine entity invoked by Cenn, who addresses him as a master or savior during a moment of imminent death in battle. Cenn explicitly identifies himself and his fellow soldiers as belonging to the Stormfather, pleading for his aid while holding a spear slick with sweat. The entity is central to Cenn's desperate thoughts and prayers as he faces the approaching Everstorm."
+    },
+    {
+        "entity": "szeth-son-son-vallano",
+        "summary": "Szeth-son-son-Vallano, also known as the Truthless of Shinovar, is a character who wears white clothing as a Parshendi tradition and serves as an assassin who has killed a king of Alethkar."
+    },
+    {
+        "entity": "Shinovar",
+        "summary": "Shinovar is a location associated with the character Szeth-son-son-Vallano, who is identified as the Truthless of Shinovar. The text describes his clothing as being foreign to him and notes that his skin is not pale like someone from Shinovar, distinguishing it from the Alethi."
+    },
+    {
+        "entity": "szeth",
+        "summary": "Szeth is a servant in white robes attending a treaty-signing celebration in the East, where he is perceived by the local population as a docile and harmless member of a specific kind of servant. He is present alongside the Parshendi, who are described as cousins to the parshmen and are noted for their ability to think, a trait that distinguishes them from other servant peoples. During the festivities, Szeth observes key figures including the aging Dalinar Kholin, the absent Jasnah, and the ruling heir Elhokar."
+    },
+    {
+        "entity": "dalinar kholin",
+        "summary": "Dalinar Kholin is the king's brother and the father of Adolin, a powerfully built man who serves as a Shardbearer in the ten armies and prefers to leave his armor in its natural slate-grey color without paint or ornamentations."
+    },
+    {
+        "entity": "Jasnah",
+        "summary": "Jasnah is the daughter of the king and the sister of Dalinar Kholin. She is currently the subject of a search by Szeth and Shallan, as she has not yet left the city despite the Wind's Pleasure preparing to dock."
+    },
+    {
+        "entity": "elhokar",
+        "summary": "Elhokar is the son and heir of the king, who is currently ruling a feast in his father's absence. He is a lighteyed figure of high status, distinguished by gemstones on his fingers and the deference shown to him by other attendants. He is explicitly identified as the king of Kharbranth, distinct from the character Shallan initially mistakes him for."
+    },
+    {
+        "entity": "Thaylenah",
+        "summary": "Thaylenah is an island kingdom that does not share a border with the Alethi, possessing five Blades and three full suits of Plate held by its royal guards."
+    },
+    {
+        "entity": "Jah Keved",
+        "summary": "Jah Keved is a towering city located in the lands of the Alethi, where the inhabitants are said to use sapphires infused with Storm-light for illumination. It is also the homeland of Shallan's family, from which she originates before traveling to the free city of Kharbranth."
+    },
+    {
+        "entity": "alethi",
+        "summary": "The Alethi are a group of people characterized by dark hair and a specific accent, who are shown wearing grand silk dresses with asymmetrical sleeves and are noted for fighting against one another in armies."
+    },
+    {
+        "entity": "jezerezeh",
+        "summary": "Jezerezeh is identified as one of the Ten Heralds from ancient Vorin theology, appearing in statues alongside Ishi, Kelek, and Talenelat, and is also referenced as a figure depicted in a picture of a Herald alongside Nalan."
+    },
+    {
+        "entity": "Ishi",
+        "summary": "Ishi is one of the Ten Heralds from ancient Vorin theology, specifically identified as the Herald of Luck, whose statue was noted as missing from a line of nine statues in a location where King Gavilar was known to be devout."
+    },
+    {
+        "entity": "talenelat",
+        "summary": "Talenelat is one of the Ten Heralds from ancient Vorin theology, depicted in a statue alongside Jezerezeh, Ishi, and Kelek at a celebration where Shalash's statue is notably missing."
+    },
+    {
+        "entity": "Shalash",
+        "summary": "Shalash is one of the Ten Heralds from ancient Vorin theology, whose statue is conspicuously missing from a line of nine statues in a location where King Gavilar is known to be devout."
+    },
+    {
+        "entity": "gavilar",
+        "summary": "King Gavilar is a devout ruler of Vorin worship who favors lavish displays and maintains statues of the Ten Heralds, though one is notably missing from his hall. He is the target of a magical attack by Szeth, who lashes furniture to crash into him, causing the king to stumble and fall to the ground."
+    },
+    {
+        "entity": "kholinar",
+        "summary": "Kholinar is a city where double guards are stationed due to the presence of Parshendi allies, and where Szeth was required to recover his Oathstone after being tossed away by fleeing savages."
+    },
+    {
+        "entity": "stormlight",
+        "summary": "Stormlight is a luminous energy that can be held by humans for only a few minutes before leaking away, though Voidbringers are rumored to contain it perfectly. It serves as a powerful binding agent capable of holding objects together with the strength of a hundred arms, but it drains quickly when used for complex tasks like a Full Lashing."
+    },
+    {
+        "entity": "shardblade",
+        "summary": "A Shardblade is a long, thin, two-edged weapon that forms by condensing from mist when summoned by its wielder. It functions as a soul-severing instrument that cuts through inanimate matter like stone and steel but does not cut living flesh, instead causing the eyes of its victims to smoke and burn as it severs their souls."
+    },
+    {
+        "entity": "violet fearspren",
+        "summary": "A violet fearspren is a creature that crawled out of the stone ceiling around Szeth, emerging from the ceiling to face him."
+    },
+    {
+        "entity": "lashings",
+        "summary": "Lashings are a form of power left by King Gavilar in gemstones on the walls, which interfere with the function of Shardplate and prevent its wearer from using it."
+    },
+    {
+        "entity": "reverse lashing",
+        "summary": "A third and final type of Lashing that functions differently from others by pulling nearby light into a surface rather than emitting it, creating a strange penumbra."
+    },
+    {
+        "entity": "shardblades",
+        "summary": "Shardblades are supernal weapons gifted by a god to the Knights Radiant, designed to cut through foes with skin as hard as stone where ordinary steel fails. They are utilized in battle strategies involving baiting and hacking enemies to death, distinguishing them from standard steel arms."
+    },
+    {
+        "entity": "knights radiant",
+        "summary": "According to legend, these were the first wielders of the Shardblades, granted by their god to fight the Voidbringers, a group of foes with skin as hard as stone. The text notes that they eventually fell and became tarnished, distinguishing them from the Heralds who abandoned their duties."
+    },
+    {
+        "entity": "Alethkar",
+        "summary": "Alethkar is a Vorin kingdom where men frequently recount legends of victory over Voidbringers, though the text notes that weapons meant for nightmares are sometimes turned against common soldiers. It is a sovereign nation comparable to Kharbranth and Shallan's homeland of Jah Keved, distinguished by a culture where writing is considered a feminine art practiced by wives and sisters while men learn only glyphs. The kingdom serves as a setting for military activity involving bridge crews and highprinces, as well as a location where laws may not apply in specific contexts like Tvlakv's situation."
+    },
+    {
+        "entity": "voidbringers",
+        "summary": "The Voidbringers are legendary entities described as nightmares that mankind supposedly defeated, though some characters doubt their existence and attribute missing items or crop infections to them instead."
+    },
+    {
+        "entity": "king's guard",
+        "summary": "A military unit composed of soldiers dressed in deep blue and gold who serve the king, personally organized by Dalinar, and are prepared to defend against Shardbearers."
+    },
+    {
+        "entity": "shardplate",
+        "summary": "Shardplate is a specialized set of armor designed to slay dark gods, serving as the customary complement to a Shardblade. It is ancient and magical, powered by gemstones that can be interfered with by Lashings, forcing the wearer to choose between using the armor or their Lashings."
+    },
+    {
+        "entity": "shardbearer",
+        "summary": "A Shardbearer is a warrior clad in Shardplate armor that enhances their strength and protects them from direct Lashings. These individuals wield Blades and engage in skilled swordplay, often displaying agility that surpasses expectations for someone in such bulky armor."
+    },
+    {
+        "entity": "gavilar kholin",
+        "summary": "Gavilar Kholin is the king who was struck by a large length of bloodied wood through his side, causing him to fall and die, and is described as having a skilled swords-manship that few men could rival."
+    },
+    {
+        "entity": "thaidakar",
+        "summary": "Thaidakar is a character mentioned by the king and Amaram as a figure who has arrived too late to prevent an event and is associated with the Ghostbloods, a group described as growing bolder."
+    },
+    {
+        "entity": "sadeas",
+        "summary": "High-prince Sadeas is a high-ranking Alethi noble who owns the territory of Brightlord Amaram. He is currently seeking vengeance for the murder of King Gavilar while his forces are involved in a border skirmish against a landlord encroaching on Amaram's land. High-prince Dalinar and Adolin are noted to be wary of Sadeas's influence and speech."
+    },
+    {
+        "entity": "cenn",
+        "summary": "Cenn is a character who serves as a soldier in a large army, standing at the front of a squad alongside a veteran and other men. He is a distinct individual from the characters Kaladin, Kal, Restares, and Sadeas, who are mentioned in separate contexts within the provided text."
+    },
+    {
+        "entity": "amaram",
+        "summary": "Brightlord Amaram is a high-ranking Alethi noble who commands a force of soldiers equipped with full suits of armor and horses. He leads a contingent that includes Shardbearers, distinguishing his unit from Kaladin's squad which lacks shields, and he is a subordinate of High-prince Sadeas."
+    },
+    {
+        "entity": "shardbearers",
+        "summary": "Shardbearers are individuals who wield Shardblades, possessing the ability to hold Stormlight within their veins, and are considered legendary figures whose deaths are rare occurrences."
+    },
+    {
+        "entity": "dallet",
+        "summary": "Dallet is a mountainous, bearded man who serves as a squad leader alongside Cenn. He provides comfort and guidance to Cenn, instructing him to keep his head straight and stay with the squad during a confrontation with a massive army."
+    },
+    {
+        "entity": "kaladin stormblessed",
+        "summary": "Kaladin Stormblessed is a deceased figure whose legacy is carried on by Kaladin Bridgeman, a youth of the same blood who serves as a new squad leader. The text distinguishes between the dead Stormblessed and the living descendant, noting that the latter cannot erase the scars of the former but can learn from his victories."
+    },
+    {
+        "entity": "kaladin",
+        "summary": "Kaladin is a soldier who commands a squad of approximately thirty men, standing alongside Cenn and Dallet as they prepare for deployment. He possesses a strong voice and is actively involved in managing his unit's readiness and addressing the arrival of new recruits. The text confirms his presence within a large formation of thousands of soldiers, though his specific rank or magical abilities are not mentioned in the provided context."
+    },
+    {
+        "entity": "Shattered Plains",
+        "summary": "The Shattered Plains is a major battlefield where Alethi soldiers are sent to fight the Parshendi. It is currently the location where King Gavilar was murdered five years prior, prompting Highprince Sadeas to seek vengeance there. Most of the real soldiers are stationed there, which motivates Kaladin to train his squad for deployment to this front."
+    },
+    {
+        "entity": "lighteyes",
+        "summary": "A military rank denoting an officer who commands a squad of soldiers, often paired with a spouse who manages camp logistics and engineering duties."
+    },
+    {
+        "entity": "cyn",
+        "summary": "Cyn is a character who is ordered by Kaladin to return with the boy and Korater, but is subsequently cut down by a Shardbearer alongside Lyndel."
+    },
+    {
+        "entity": "korater",
+        "summary": "Korater is a character mentioned alongside Cyn and the boy, instructed by Kaladin to return with them while Dallet holds the position."
+    },
+    {
+        "entity": "kusiri",
+        "summary": "Kusiri is a person who ran off with the cobbler's son, an event that caused Cenn's mother to display hatred toward anyone who mentioned her."
+    },
+    {
+        "entity": "hallaw",
+        "summary": "Hallaw is a lighteyes officer who commands a group of soldiers and is known for utilizing long volleys in combat. He is a specific enemy that Kaladin and his squad have fought against multiple times."
+    },
+    {
+        "entity": "heralds",
+        "summary": "The Heralds are a group of individuals chosen at birth by the lighteyes to rule, possessing a special mark that designates them for leadership. Characters in the text, such as Shallan, refer to them with reverence, while Kaladin prays to them for assistance during a conflict involving enemy lighteyes and honor guards."
+    },
+    {
+        "entity": "unclaimed hills",
+        "summary": "A remote region through which a caravan of slaves is traveling, characterized by powerful highstorms and small independent cities where Vorin slave laws are merely a rumor."
+    },
+    {
+        "entity": "windspren",
+        "summary": "A windspren is a ribbon of light without form that plays pranks on people, such as zipping by and causing objects to move unexpectedly."
+    },
+    {
+        "entity": "shash",
+        "summary": "Shash is the name of the third brand on Kaladin's forehead, which was freshly given to him by his most recent master and signifies that he is dangerous."
+    },
+    {
+        "entity": "tvlakv",
+        "summary": "Tvlakv is a character who leads a group of mercenaries and transports slaves using large crustaceans known as chulls. He travels through unruled lands with brutish companions and a serving boy named Taran, where he personally checks on the health of his slave investments. His group avoids established trade routes to evade unemployed mercenaries who might attack them for their wagons and cargo."
+    },
+    {
+        "entity": "vorin",
+        "summary": "Vorin refers to a specific group of people whose teachings and social rules are contrasted with the local customs of the Unclaimed Hills and the status of lighteyes versus dark-eyes."
+    },
+    {
+        "entity": "violet salas",
+        "summary": "Violet Salas is the smallest and dimmest of the moons, characterized by its violet coloring which provides poor visibility despite inspiring poets."
+    },
+    {
+        "entity": "Taln",
+        "summary": "Taln is a celestial body, specifically a star or constellation, referred to as 'Taln's Scar,' which appears as a distinct swath of deep red stars in the night sky."
+    },
+    {
+        "entity": "lanky taran",
+        "summary": "Lanky Taran is a serving boy who tends to the chulls, large crustaceans that serve as the group's food source, during a halt made by Tvlakv."
+    },
+    {
+        "entity": "Salas",
+        "summary": "Salas is the smallest and dimmest of the moons, characterized by a violet coloring that provides insufficient light to illuminate the interior of a barn or lumberyard."
+    },
+    {
+        "entity": "tukks",
+        "summary": "Tukks is a deceased soldier who served in Amaram's army and provided Kaladin with advice on caring for his men to fight better, distinguishing real soldiers from mercenaries."
+    },
+    {
+        "entity": "takers",
+        "summary": "The Takers are a group of individuals who have been killed alongside Cenn, Dallet, Tukks, and Tien, representing a sequence of deaths involving a young girl with pale skin."
+    },
+    {
+        "entity": "thaylen",
+        "summary": "Thaylen refers to a specific group of men distinguished by their stark white beards and eyebrows, which are worn pushed back over the ears, as seen in the characters Tvlakv and Tozbek."
+    },
+    {
+        "entity": "bluth",
+        "summary": "Bluth is a mercenary with a slablike face who wields a cudgel and acts as a guard for Tvlakv, forcing slaves to scramble back when he enters the cage."
+    },
+    {
+        "entity": "thaylens",
+        "summary": "The Thaylens are a distinct group of slavers who possess their own system of ranks and a unique linguistic style characterized by mashing letters together without proper vowels."
+    },
+    {
+        "entity": "kharbranth",
+        "summary": "Kharbranth, also known as the City of Bells, is a massive, wedge-shaped city built into a steep incline along the ocean. Its blocky structures are constructed from mud or daub and painted in bright colors, while the city's name is derived from the pure voices of bells that tinkle in the wind."
+    },
+    {
+        "entity": "city of bells",
+        "summary": "Kharbranth, City of Bells, is a coastal location where Shallan is traveling and where Szeth-son-son-Vallano arrives by ship to unload grain onto the docks."
+    },
+    {
+        "entity": "Shallan",
+        "summary": "Shallan is a young woman from a family of scholars who dreams of travel rather than the sequestered life she expected. She is currently visiting Kharbranth, the City of Bells, accompanied by her father's trusted business connection and his wife, Ashlv. Her journey involves a specific plan concocted with her brothers that notably excludes the presence of a lady-in-waiting or nurse."
+    },
+    {
+        "entity": "wind's pleasure",
+        "summary": "The Wind's Pleasure is a narrow, single-masted vessel capable of carrying the captain, his wife, a half-dozen crew, and the narrator. It serves as the primary setting for the narrator's weeks of nature sketching and the crew's navigation along the coast."
+    },
+    {
+        "entity": "Tozbek",
+        "summary": "Captain Tozbek is a calm and cautious pagan sailor who commands the narrow vessel Wind's Pleasure, guiding it along the coast and securing it against highstorms."
+    },
+    {
+        "entity": "ashlv",
+        "summary": "Ashlv is Shallan's wife who is seen walking down the gangplank to register their vessel, a situation that complicates her brothers' plan to travel without a lady-in-waiting or nurse."
+    },
+    {
+        "entity": "Jasnah Kholin",
+        "summary": "Jasnah Kholin is a powerful and infamous woman who is the only member of a faithful royal house to be a professed heretic. She is the subject of a search by Shallan, who has been chasing her from town to town for six months."
+    },
+    {
+        "entity": "tashikk",
+        "summary": "Tashikk is a distant western location whose inhabitants are identified by their distinctive single-sheet wraps."
+    },
+    {
+        "entity": "Vedenar",
+        "summary": "Vedenar is the capital city of Jah Keved, depicted as a hexagonal pattern, and serves as a destination where Tozbek might insist on taking the protagonist back due to her dwindling funds."
+    },
+    {
+        "entity": "brightness shallan",
+        "summary": "Brightness Shallan is a person addressed by a captain who claims the windspren were entranced by her face, and she is also referred to by Jasnah as having unique talents."
+    },
+    {
+        "entity": "alethi tan",
+        "summary": "Alethi tan is a cultural designation for the pale-skinned people of the era, considered the mark of true beauty, though the text notes that some individuals with this heritage possess impure family lines manifesting as auburn-red hair and freckles."
+    },
+    {
+        "entity": "palanaeum",
+        "summary": "The Palanaeum is a specific location within Jasnah's residence that serves as a place of access and interest for the king and his daughter, Jasnah, who requests permission to enter it."
+    },
+    {
+        "entity": "brightness jasnah kholin",
+        "summary": "Brightness Jasnah Kholin is the sister of the king and the daughter of Elhokar, who resides in the center of the city of Kharbranth. She is a figure of high status who Shallan addresses in a formal petition regarding the acceptance of her rejection."
+    },
+    {
+        "entity": "Shaylor mkabat nour",
+        "summary": "Shaylor mkabat nour is a phrase of thanks in the Thaylen language, spoken by a woman to a captain after the winds have brought them safely."
+    },
+    {
+        "entity": "brightness jasnah",
+        "summary": "Brightness Jasnah is a title or object of high value that is elusive and difficult to locate, causing concern for the group's ability to leave the dock before the highstorm."
+    },
+    {
+        "entity": "natanatan",
+        "summary": "Natanatan is one of the five Vorin kingdoms, inhabited by men with gloved hands and faintly bluish skin, and was the site of a war against the Parshendi prompted by the actions of an Assassin from Shin."
+    },
+    {
+        "entity": "soulcasters",
+        "summary": "Soulcasters are a specialized group of troops housed in large stone barracks who possess the ability to use gemstones to create food."
+    },
+    {
+        "entity": "Roshar",
+        "summary": "Roshar is the world where the city of Kharbranth is built on raw stone and where gods once walked during a previous epoch."
+    },
+    {
+        "entity": "dumadari",
+        "summary": "Dumadari is a location where Jasnah Kholin resides and where Shallan Davar travels to meet her after receiving a letter commanding her attendance."
+    },
+    {
+        "entity": "house davar",
+        "summary": "House Davar is an ancient family of middling power and importance that faces imminent ruin after the death of its patriarch and the resulting bankruptcy, leaving its members vulnerable to creditors and subjugation by other houses."
+    },
+    {
+        "entity": "Valam",
+        "summary": "Valam is the Highprince to whom House Davar gives fealty, who is currently ailing and no longer able to offer the protection he once provided to his family."
+    },
+    {
+        "entity": "kholin",
+        "summary": "Kholin is the name of a noble house in the kingdom, identified by a deep blue banner featuring white glyphs of a sword before a crown. The house is associated with the king and includes members such as the Brightlady Kholin, whose attendants Shallan is mistaken for."
+    },
+    {
+        "entity": "roshone",
+        "summary": "Roshone is a lighteyes character known to Kaladin, previously serving as a servant in a brightlord's retinue. He is described as appearing too old and flabby to be a true soldier, though he wears a sword and a takama. Kaladin recalls interacting with Roshone alongside other corrupt lighteyes like Wistiow and Amaram."
+    },
+    {
+        "entity": "katarotam",
+        "summary": "Katarotam is a lighteyes character known to Kaladin, who, along with Roshone and Amaram, is described as being corrupt to the core despite his outward poise and beauty."
+    },
+    {
+        "entity": "soulcaster",
+        "summary": "A Soulcaster is a fabrial, a magical device consisting of rings and a bracelet connected by chains that holds a triangular group of gemstones. It enables the process of Soulcasting, a form of magic used by ardent practitioners, and is also the name given to the people who perform this process. The device is significant enough to be found on a deceased father and is capable of glistening against skin when held by a character like Jasnah."
+    },
+    {
+        "entity": "taravangian",
+        "summary": "Taravangian is the king of Kharbranth, distinguished by gemstones on his fingers and the deference shown to him by lighteyed attendants, who Shallan initially mistakes for Jasnah's brother Elhokar before correcting her assumption."
+    },
+    {
+        "entity": "Shallan Davar",
+        "summary": "Shallan Davar is a character who introduces herself to Jasnah, expressing regret for not meeting her earlier in Dumadari, and is subsequently tasked by Jasnah with a week of research and decision-making to prepare for a future role as a scholar."
+    },
+    {
+        "entity": "davar",
+        "summary": "Davar is the surname of a young woman who requests leave from Jasnah to become her student, though Jasnah notes that her requirements are strict and she has little tolerance for the distractions of ward training."
+    },
+    {
+        "entity": "tormas",
+        "summary": "Tormas is a historical figure whose complete works are studied alongside those of Nashan, Niali the Just, and Nohadon by Shallan, who cites him as a source of knowledge in basic mathematics and accounting."
+    },
+    {
+        "entity": "nashan",
+        "summary": "Nashan is a historical figure whose complete works are listed among the books Shallan has read, alongside those of Tormas, Niali the Just, and Nohadon."
+    },
+    {
+        "entity": "niali",
+        "summary": "Niali the Just is a historical figure whose complete works are read by Shallan, alongside those of Tormas, Nashan, and Nohadon."
+    },
+    {
+        "entity": "nohadon",
+        "summary": "Nohadon was the king of Alethkar who lived in the time before the Heralds left. He is credited as the author of a book that claims Alethkar was once a light, though the text notes he was an ordinary man who served as the inspiration for the work rather than its literal writer."
+    },
+    {
+        "entity": "Placini",
+        "summary": "Placini is the author of a collection of excerpts from famous writings, which is one of several philosophical texts requested by Shallan from a merchant."
+    },
+    {
+        "entity": "Gabrathin",
+        "summary": "Gabrathin is a prolific Shin philosopher whose works on history and philosophy are available in four different volumes, though the text notes that the Shin people may not have logicmasters."
+    },
+    {
+        "entity": "yustara",
+        "summary": "Yustara is a fictional author whose philosophical works are sought by Shallan for her studies, though the specific merchant indicates that only excerpts from their writings are available."
+    },
+    {
+        "entity": "Manaline",
+        "summary": "Manaline is a fictional author whose collected excerpts are sold by a merchant as a philosophical work, alongside texts by Placini, Gabrathin, Yustara, and Shauka-daughter-Hasweth."
+    },
+    {
+        "entity": "syasikk",
+        "summary": "Syasikk is a logicmaster, one of several obscure texts Jasnah expects her wards to have studied, alongside Gabrathin, Yustara, Manaline, and Shauka-daughter-Hasweth."
+    },
+    {
+        "entity": "Shauka",
+        "summary": "Shauka is the surname of a Shin philosopher known as Shauka-daughter-Hasweth, who authored a single book on philosophy that is available in the library of Jasnah's wards."
+    },
+    {
+        "entity": "hasweth",
+        "summary": "Hasweth is a Shin philosopher whose work is referenced by Jasnah, with a single volume of her writings held by a bookseller."
+    },
+    {
+        "entity": "Barlesha Lhan",
+        "summary": "Barlesha Lhan is the subject of a specific collection of topics within the narrative."
+    },
+    {
+        "entity": "fabrisan",
+        "summary": "Fabrisan is the name of a specific puzzle or challenge, referred to as 'Fabrisan's Conundrum,' which the speaker claims they cannot solve with a wave of their hand."
+    },
+    {
+        "entity": "malise gevelmar",
+        "summary": "Malise Gevelmar is the woman who married the protagonist's father after his first wife died."
+    },
+    {
+        "entity": "Brightness Kholin",
+        "summary": "Brightness Kholin is a person addressed by the king regarding a quantity of fifteen thousand kavals and later requested to speak with him by a young man in a hallway."
+    },
+    {
+        "entity": "soulcasting",
+        "summary": "Soulcasting is a secretive magical ability performed by ardents using fabrials to manipulate matter, demonstrated in the text by Jasnah using a Soulcaster to create paperweights."
+    },
+    {
+        "entity": "vevishes",
+        "summary": "Vevishes is a location where a lighteyed female child, approximately six years old, was collected on the date 1172, 32 seconds pre-death."
+    },
+    {
+        "entity": "laral",
+        "summary": "Laral is a character who appears alongside Kal and Tien while they are positioned atop a low ridge of boulders east of Hearthstone. She is described as having golden streaks in her black hair and is seen balancing on the edge of a rock with her hands out to the sides."
+    },
+    {
+        "entity": "lamaril",
+        "summary": "Lamaril is a noblewoman and a high-ranking official who serves as the immediate superior of Gaz, holding authority over bridge crews and slave assignments."
+    },
+    {
+        "entity": "soulcast",
+        "summary": "Soulcast refers to the stone material used to construct the barracks and other buildings within the camp, which are described as towering circular walls with shallowly slanted roofs."
+    },
+    {
+        "entity": "hashal",
+        "summary": "Hashal is a soldier who delivers a message from Highprince Sadeas to Kaladin, informing him that he has survived the Almighty's judgment and been given another chance to prove himself as a bridgeman."
+    },
+    {
+        "entity": "honor chasm",
+        "summary": "A dangerous location where soldiers are known to jump to their deaths, a path that commands significant deference from others."
+    },
+    {
+        "entity": "brightlord dalinar",
+        "summary": "Brightlord Dalinar is a military leader commanding an army, as evidenced by the bridgeman's statement that being in his force would imply the presence of a king."
+    },
+    {
+        "entity": "dalinar",
+        "summary": "Dalinar is a Highprince who serves as a Shardbearer and rides at the king's right side during the hunt. He is the father of Adolin and is distinguished by his somber demeanor, square face, and short black hair that has turned white at the temples. Unlike other bridge crews, he does not utilize them in his force."
+    },
+    {
+        "entity": "parshendi",
+        "summary": "The Parshendi are a group of enemies armed with shortbows and arrows, currently positioned on nearby plateaus and posing a threat to the bridgemen and the army led by Dalinar."
+    },
+    {
+        "entity": "sylphrena",
+        "summary": "Sylphrena is the name given to a windspren who appears in the shape of a young woman with a flowing skirt and delicate feet."
+    },
+    {
+        "entity": "syl",
+        "summary": "Syl is a spirit who appears in a girlish form with a long dress that flows into mist. She is capable of hovering without weight and interacts closely with Kaladin, who has not spoken in days. The spirit addresses Kaladin by name and finds the situation amusing."
+    },
+    {
+        "entity": "palahishev",
+        "summary": "Palahishev is the location where a baker's apprentice was collected on the 1172th day, 21 seconds before death."
+    },
+    {
+        "entity": "fabrial",
+        "summary": "A magical device carried in a safepouch that was damaged on the evening of the narrator's father's death and was stolen to save her brothers from debt."
+    },
+    {
+        "entity": "luesh",
+        "summary": "Luesh is the house steward and a close confidant of Shallan's father who was trained to operate the Soulcaster. He is revealed to be dead in a message sent by Nan Balat."
+    },
+    {
+        "entity": "holy enclave",
+        "summary": "The Holy Enclave is a location in Valath that houses a vast archive of tomes and scrolls, containing over seven hundred thousand separate texts, which is noted as having a collection second only to the Palanaeum in Kharbranth."
+    },
+    {
+        "entity": "valath",
+        "summary": "Valath is a location that houses the Holy Enclave, an institution possessing a vast collection of texts that is compared to the Palanaeum in Kharbranth."
+    },
+    {
+        "entity": "nan balat",
+        "summary": "Nan Balat is a character who enjoys killing things and is depicted sitting on a porch of a mansion, pulling the legs off a small crab. He is also associated with a long, silvery sword that is sharp enough to cut stones as if they were water."
+    },
+    {
+        "entity": "elithanathile",
+        "summary": "Elithanathile is the sacred name for the power of change itself, a force used by a heretic to alter reality. This power is so significant that it is only spoken by ardents and was used by the Almighty to create Roshar."
+    },
+    {
+        "entity": "kabsal",
+        "summary": "Brother Kabsal is a character who interacts with the protagonist, offering informal greetings and examining her work with spectacles. He is associated with the name Jasnah Kholin, whom he questions regarding the protagonist's skills, and he is seen seated in a room where a portrait is being discussed."
+    },
+    {
+        "entity": "vedeledev",
+        "summary": "Vedeledev is a magical object referenced by Brother Kabsal as the source of a skill involving a pencil, though the specific nature of the skill is not described in the provided text."
+    },
+    {
+        "entity": "lhanin",
+        "summary": "Brother Lhanin is a master ardent of a monastery who once lost a bet to the narrator, an event that caused him to nearly keel over in shock."
+    },
+    {
+        "entity": "dandos the oilsworn",
+        "summary": "Dandos the Oilsworn is a character referenced in the text."
+    },
+    {
+        "entity": "dandos heraldin",
+        "summary": "Dandos Heraldin is a character described as a master of pencils who is stated to have been dead for three hundred years."
+    },
+    {
+        "entity": "Veden Church",
+        "summary": "The Veden Church is described as the most traditional faction, characterized by customs that require significant bowing and scraping toward ardents, which has caused discomfort to visitors from other regions."
+    },
+    {
+        "entity": "Ishashan",
+        "summary": "Ishashan is a location where a lighteyed spinster of the eighth dahn was collected on the 1172th day, 18 seconds before her death."
+    },
+    {
+        "entity": "brightness davar",
+        "summary": "Brightness Davar is the name of a character who is addressed by a hesitant voice and is later referred to as Miss Davar by Jasnah, who grants her leave to meet her but notes that she is not being taken on as a ward."
+    },
+    {
+        "entity": "Helaran",
+        "summary": "Helaran is the eldest brother of the narrator, who was formerly known as Nan Helaran as the first son. He stood up to their father repeatedly before vanishing over a year ago, leading their father to proclaim him dead."
+    },
+    {
+        "entity": "artmyrn",
+        "summary": "Artmyrn is a Thaylen merchant identified by Yalb as the best in his field, who is addressed as Master Artmyrn by a speaker who uses a metaphor comparing the mind to the body."
+    },
+    {
+        "entity": "rencalt",
+        "summary": "Rencalt is the author of a single-volume survey of Rosharan history since the Hierocracy, titled 'Times and Passage,' which is presented as a book option to a merchant."
+    },
+    {
+        "entity": "assassin in white",
+        "summary": "The Assassin in White is a notorious figure from distant Shin who killed Jasnah's father nearly six years prior, an act that prompted the war against the Parshendi in Natanatan. He is also the individual responsible for the murder of Dalinar's brother, an event Dalinar frequently relives in his delusions."
+    },
+    {
+        "entity": "barmest",
+        "summary": "Barmest is a scoundrel merchant who sells books that are likely missing pages at a lower price than Artmyrn."
+    },
+    {
+        "entity": "nomon",
+        "summary": "Nomon is the name given by Easterners to the middle moon, which rises to bathe the city in pale blue light and is also the designation for the Second Sister."
+    },
+    {
+        "entity": "jesachev",
+        "summary": "Jesachev is the name of an ardent who was overheard during his final moments in 1173, twelve seconds before his death."
+    },
+    {
+        "entity": "bridge four",
+        "summary": "Bridge Four is a specific squad of soldiers assigned to a barracks located in the lumberyard, situated separately from the other barracks due to a superstition regarding bad luck."
+    },
+    {
+        "entity": "laresh",
+        "summary": "Laresh is a soldier who works the duty tent and is responsible for bringing new bridgemen to replace those who have been killed."
+    },
+    {
+        "entity": "Kal",
+        "summary": "Kal is the preferred short name for a ten-year-old boy who identifies as Kaladin, a name he uses to distance himself from the sound of a lighteyes's name. He is the son of Lirin, a surgeon who utilizes Stormlight from a large globe to save lives in a surgery room where Kal assists with procedures."
+    },
+    {
+        "entity": "Lirin",
+        "summary": "Lirin is a short, balding man who serves as a surgeon in the town of Hearthstone, located in northern Alethkar. He is characterized by his meticulous care for his workspace and his reliance on a pair of spectacles, which he considers a precious gift and only wears during surgery to avoid the difficulty of replacing them in the remote region. In the provided context, he is seen preparing a young woman for an operation while discussing the tardiness of the young man named Kal."
+    },
+    {
+        "entity": "sani",
+        "summary": "Sani is a fifteen-year-old young woman with sleek black hair who is wounded in her freehand and is being treated by Kal, a young surgeon who is growing taller by the day."
+    },
+    {
+        "entity": "hesina",
+        "summary": "Hesina is Kal's mother, a tall woman who serves as an assistant to his father during medical procedures and is currently seen chipping at the eaves of the town hall."
+    },
+    {
+        "entity": "Hammie",
+        "summary": "Hammie is a character who speaks to Kal, expressing that deathspren are effective at killing people and questioning why they should fear water."
+    },
+    {
+        "entity": "brightlord amaram",
+        "summary": "Brightlord Amaram is a noble lighteyed general who watches over northern Alethkar and commands an army that includes soldiers from Kal's father."
+    },
+    {
+        "entity": "wistiow",
+        "summary": "Wistiow is a noble figure referred to as Citylord Wistiow who grants permission for the recruitment of older boys into an army and owns a manor where Kaladin's father returns from."
+    },
+    {
+        "entity": "Vathe",
+        "summary": "Vathe is an old surgeon in the town of Shorsebroon from whom Kal learned his trade, distinct from the surgeon in Kharbranth."
+    },
+    {
+        "entity": "shorsebroon",
+        "summary": "Shorsebroon is the nearest town of any size where Kal learned to be a surgeon from old Vathe, distinct from the city of Kharbranth."
+    },
+    {
+        "entity": "Chachanan",
+        "summary": "Chachanan is a cutpurse suffering from the wasting sickness who possesses partial Iriali descent, as recorded in a collection entry from 1173."
+    },
+    {
+        "entity": "kaladin bridgeman",
+        "summary": "Kaladin Bridgeman is a descendant of Kaladin Stormblessed who possesses the same blood and potential, serving as a new squad leader who learns from the victorious generals of the past."
+    },
+    {
+        "entity": "teft",
+        "summary": "Teft is a man who introduces himself to Kaladin, indicating they are companions preparing for a difficult day ahead. He is seen interacting with Kaladin and another man named Cenn, who is positioned at the front of a large group of soldiers. Teft is characterized by his bearded chin and his engagement in conversation regarding the upcoming challenges."
+    },
+    {
+        "entity": "Ishikk",
+        "summary": "Ishikk is a Purelaker, a member of the nation of Sela Tales, who is seen wearing lake sandals and knee-length breeches while carrying buckets containing only five fish. He is currently meeting with strange foreigners who are looking for an individual named Hoid."
+    },
+    {
+        "entity": "Nu Ralik",
+        "summary": "Nu Ralik is a divine or personified force representing the sun and nature within the Purelake, whose will dictates the weather and the health of the Purelakers, as evidenced by the prohibition against wearing shirts on sunny days and the description of a day provided by Nu Ralik as horrible."
+    },
+    {
+        "entity": "purelaker",
+        "summary": "A Purelaker is a member of a specific group of people who adhere to the custom of never covering their shoulders when the sun is shining, as doing so is believed to cause sickness."
+    },
+    {
+        "entity": "purelake",
+        "summary": "The Purelake is a vast, shallow body of water extending hundreds of miles, characterized by its glassy transparency, warm slow-moving currents, and abundance of tiny fish, colorful cremlings, and eel-like riverspren. It serves as the central natural landmark for the nation of Sela Tales and is the primary domain of the Purelakers, who consider its boundaries more significant than those of nations."
+    },
+    {
+        "entity": "sela tales",
+        "summary": "Sela Tales was the name of a nation located in the land known as the Purelake, which was once claimed by a king and existed as one of the Epoch Kingdoms."
+    },
+    {
+        "entity": "Fu Abra",
+        "summary": "Fu Abra is a village situated on blocks beneath the surface of the Purelake, characterized by domed roofs that resemble rockbuds and serving as the only structures visible for miles around."
+    },
+    {
+        "entity": "thaspic",
+        "summary": "Thaspic is a dark-skinned man who works as a raft puller, transporting piles of cloth for washing along the waterway."
+    },
+    {
+        "entity": "vun makak",
+        "summary": "Vun Makak is a character who is capable of cursing and blighting others, as evidenced by Ishikk's complaint that Vun Makak has blighted him and cursed him on a specific day."
+    },
+    {
+        "entity": "Maib",
+        "summary": "Maib is a resident of the village who owns a house located near the center, where the protagonist Ishikk sometimes sleeps instead of on his raft."
+    },
+    {
+        "entity": "fu ralis",
+        "summary": "Fu Ralis is one of several individuals mentioned by Ishikk as having been present in the area during the current month, alongside Fu Namir, Fu Albast, and Fu Moorin, though none of them are the man Ishikk is searching for."
+    },
+    {
+        "entity": "fu namir",
+        "summary": "Fu Namir is one of several individuals, including Fu Ralis, Fu Albast, and Fu Moorin, who have not been seen by Ishikk during the current month."
+    },
+    {
+        "entity": "fu albast",
+        "summary": "Fu Albast is one of several individuals, alongside Fu Ralis, Fu Namir, and Fu Moorin, who have been observed by Ishikk during the current month. None of these people, including Fu Albast, have been seen by the group searching for a specific missing man."
+    },
+    {
+        "entity": "Fu Moorin",
+        "summary": "Fu Moorin is one of four individuals mentioned by Ishikk, alongside Fu Ralis, Fu Namir, and Fu Albast, who have not been seen by anyone during the current month."
+    },
+    {
+        "entity": "Vao",
+        "summary": "Vao is a character who uses a fake name, as indicated by the speaker's Grump who notes that Vao is not the man's real name and that the group uses false identities."
+    },
+    {
+        "entity": "temoo",
+        "summary": "Temoo is a character addressed by Blunt in a conversation regarding the inability to pontificate their way to a solution."
+    },
+    {
+        "entity": "hoid",
+        "summary": "Hoid is a name adopted by a character who has abandoned his real name, offering it as an alternative title for himself. He warns others about a planned revelation by Sadeas at an upcoming feast."
+    },
+    {
+        "entity": "Eylita",
+        "summary": "Eylita is the betrothed of Nan Balat and the individual responsible for writing letters regarding the family's debts, the high-prince's illness, and the dwindling quarry resources."
+    },
+    {
+        "entity": "Horneater Peaks",
+        "summary": "The Horneater Peaks are a range of majestic mountains located to the west and south of Alethkar within the region of Jah Keved. They are characterized by high elevation, rocky formations, and villages clustered near vents that emit steam or lava."
+    },
+    {
+        "entity": "Balat",
+        "summary": "Balat is a character who walks down the steps of a porch and speaks to a girl named Scrak, reflecting on his sister Shallan's recent departure and her new status as Jasnah Kholin's ward."
+    },
+    {
+        "entity": "scrak",
+        "summary": "Scrak is an intelligent axehound who frequently disobeys commands, particularly regarding small tasks, displaying a childlike desire for independence while remaining loyal to her owner Balat."
+    },
+    {
+        "entity": "Asha Jushu",
+        "summary": "Asha Jushu is the youngest of three brothers who, along with his siblings Balat and Tet Wikim, suffered under their father's brutal temper. He is characterized as a good man who secretly sold stolen items to cover his gambling losses and support his family."
+    },
+    {
+        "entity": "tet wikim",
+        "summary": "Tet Wikim is one of the three siblings in a broken family who suffered under their father's brutal temper, alongside Asha Jushu and Nan Balat."
+    },
+    {
+        "entity": "nan helaran",
+        "summary": "Nan Helaran is the eldest brother of the narrator, who was originally named Nan Helaran as the first son before his death. He is remembered as a figure who repeatedly stood up to their father, contrasting with the current state of the family left behind as cripples."
+    },
+    {
+        "entity": "Wikim",
+        "summary": "Wikim is a character who appears on a porch and rushes to assist a man named Eylita, who is managing his father's debts and the high-prince's illness."
+    },
+    {
+        "entity": "kurp",
+        "summary": "A pejorative term for a child in the local Bav dialect, used by Szeth's master Took to address him due to his people's physical resemblance to children."
+    },
+    {
+        "entity": "amark",
+        "summary": "Amark is a character who appears to be a soldier, described as a sniffly man who objects to a situation and later stands up to speak to another character named Took before settling back down looking sheepish."
+    },
+    {
+        "entity": "Dustmother",
+        "summary": "Dustmother is a title used by Ton to refer to a specific individual who speaks in a distinctive manner."
+    },
+    {
+        "entity": "Bavland",
+        "summary": "Bavland is a small, mostly-ignored stretch of land located just south of the Horneater Peaks and technically part of Jah Keved, though its highprince tends to avoid it. The region contains many small mines and villages, with the town of Ironsway serving as a local metropolis."
+    },
+    {
+        "entity": "oathstone",
+        "summary": "A gemstone suspended by a chain that serves as a binding object for Szeth, which he was required to recover after being discarded by the Parshendi fleeing Kholinar."
+    },
+    {
+        "entity": "avado",
+        "summary": "Avado is a merchant who transports Szeth in a cart to Jah Keved, unaware that his serving man is the murderer of the late king."
+    },
+    {
+        "entity": "Ironsway",
+        "summary": "Ironsway is a small town located in Bavland, south of the Horneater Peaks, which features a proper town square, several hundred homes, and three taverns."
+    },
+    {
+        "entity": "second sister",
+        "summary": "The second sister is the name given to the middle moon, which rises to bathe the city in pale blue light. She is also known as Nomon to the Easterners."
+    },
+    {
+        "entity": "Adolin",
+        "summary": "Adolin is a character who rides near the front of a grand procession alongside his brother Renarin and the king. He is positioned close to Highprince Sadeas, a figure that visibly puts him on edge, while the column behind him includes soldiers in Kholin blue, servants, and women in palanquins."
+    },
+    {
+        "entity": "renarin",
+        "summary": "Renarin is the younger brother of Adolin, who speaks with a measured and controlled voice that pauses before answering questions. He is deeply concerned about Adolin's visions, which occur during the highstorm, and offers a supportive presence to his sibling."
+    },
+    {
+        "entity": "vamah",
+        "summary": "Vamah is a highprince who participates in the hunt but is not a Shardbearer. He is accompanied by a collection of attendants, aides, and sycophants and is one of the final highprinces on the hunt."
+    },
+    {
+        "entity": "Janala",
+        "summary": "Janala is a character who loves ancient epic poems and is known for her luxurious black hair and sly smile. She is the subject of Adolin's contemplation regarding how to explain his falling out with Rilla to her, and he considers inviting her on a hunt to watch him fight a greatshell."
+    },
+    {
+        "entity": "rilla",
+        "summary": "Rilla is a person who was vocal about a situation that caused Adolin to decide against inviting Janala, leading Adolin to worry about how to explain their falling out."
+    },
+    {
+        "entity": "cobalt guard",
+        "summary": "The Cobalt Guard is a military faction serving under Highprince Sadeas, consisting of soldiers and lighteyed attendants who accompany him and other high-ranking figures during camp proceedings."
+    },
+    {
+        "entity": "plains",
+        "summary": "The vast open battlefield where the Parshendi have not attacked in years, serving as the location where soldiers line up for battle and where Dalinar's father fought for different reasons."
+    },
+    {
+        "entity": "brightlord adolin",
+        "summary": "Brightlord Adolin is a high-ranking noble who directs investigations into the saddle girth incident and communicates with leather-workers to determine if anyone interfered with His Majesty's horse."
+    },
+    {
+        "entity": "tarilar",
+        "summary": "Tarilar is a scout-lord who serves as a gaunt-faced, muscular man with a thick chest and arms. He is seen jogging up to Brightlord Adolin to deliver new scout reports and subsequently hurrying away to pass orders."
+    },
+    {
+        "entity": "company twenty-one",
+        "summary": "Company Twenty-one is a military unit commanded by Adolin, tasked with deploying outriders to specific plateaus for surveillance."
+    },
+    {
+        "entity": "brightlord",
+        "summary": "The term 'brightlord' is a formal address used by Tarilar, Bashin, and others to refer to a high-ranking noble or military leader within the group. This title is applied to the individual receiving orders from Tarilar and is addressed by Bashin regarding a hunt for a large beast."
+    },
+    {
+        "entity": "vartian",
+        "summary": "Vartian is a character identified as one of Highprince Sadeas's recent hangers-on, who is seen lounging alongside Lomard and speaking loudly about Adolin chasing after the king."
+    },
+    {
+        "entity": "lomard",
+        "summary": "Lomard is a character who serves as one of Highprince Sadeas's recent hangers-on, frequently engaging in loud conversations with Vartian about the king and Dalinar's hunting of gemhearts."
+    },
+    {
+        "entity": "kholin princedom",
+        "summary": "The Kholin Princedom is an autonomous Alethi princedom that functions as a kingdom unto itself, which Dalinar inherited by right after his brother Gavilar accepted the throne of the Alethi."
+    },
+    {
+        "entity": "brightlord lustow",
+        "summary": "Brightlord Lustow is the title of a high-ranking noble whose daughter is referenced by Adolin. The text does not provide further details about the individual or their specific actions."
+    },
+    {
+        "entity": "deeli",
+        "summary": "Deeli is a person who is the subject of Adolin's statement that he stopped courting her two months prior."
+    },
+    {
+        "entity": "bashin",
+        "summary": "Bashin is a short, paunchy darkeyes of the first nahn who serves as the day's huntmaster, wearing rugged clothing and a wide-brimmed hat. He is a prestigious figure worthy of marrying into a lighteyed family and assists the king with his horse."
+    },
+    {
+        "entity": "ryshadium",
+        "summary": "Ryshadium refers to a specific type of horse, including a white stallion ridden by Adolin and a mount named Gallant ridden by Dalinar, which are noted for being made of stronger stone than regular horses."
+    },
+    {
+        "entity": "navani",
+        "summary": "Navani is the widow of King Gavilar and the mother of Elhokar and Jasnah. She led the research to develop grandbows, large steel bows requiring fabrial science and infused gemstones, and is referred to as Adolin's aunt."
+    },
+    {
+        "entity": "shardbows",
+        "summary": "Some individuals began referring to certain bows as Shardbows, though Adolin rejected this term. He believed that items like Shardblades and Shardplate were special relics from the time of the Radiants that could not be replicated by fabrial science."
+    },
+    {
+        "entity": "brightlords",
+        "summary": "The term refers to a specific title or rank held by individuals like Renarin and Adolin, who are addressed with respect by subordinates such as Tarilar and Bashin."
+    },
+    {
+        "entity": "Oathbringer",
+        "summary": "A six-foot-long Shardblade carried by Dalinar since his youth, featuring wavelike serrations near the hilt and a tip curved like a fisherman's hook."
+    },
+    {
+        "entity": "Sunraiser",
+        "summary": "Sunraiser is a Shardblade wielded by Elhokar, characterized by its long, thin blade, large crossguard, and the ten fundamental glyphs etched along its sides."
+    },
+    {
+        "entity": "moash",
+        "summary": "Moash is a lean Alethi soldier selected by Kaladin to serve as a physical example for training. He is described as a younger man with a hawkish face who initially resists Kaladin's attempt to pull him to his feet before snapping at him to 'storm off'."
+    },
+    {
+        "entity": "narm",
+        "summary": "Narm is a lean Alethi soldier who is considered too thin to serve as a training example for Kaladin, unlike the stronger Moash. He is assigned by Kaladin to make a fire using a shirt as tinder and gather fallen arrows for wood."
+    },
+    {
+        "entity": "sigzil",
+        "summary": "Sigzil is a dark-skinned bridgeman from southwestern Roshar, likely of Azish or Emuli origin, who serves in the army alongside characters such as Kaladin, Moash, and Peet. He is noted for being the only bridgeman without a beard and is frequently seen humming or singing in harmony with Rock. Sigzil often appears in scenes where he refuses to look at Kaladin, maintaining a distinct and somewhat distant demeanor within the squad."
+    },
+    {
+        "entity": "Leyten",
+        "summary": "Leyten is a tall, stout man with curly hair who serves as a squad member standing to Kaladin's left during a formation of soldiers. He is killed early in the engagement when arrows strike him and his squadmates, including Adis and Corl."
+    },
+    {
+        "entity": "horneater",
+        "summary": "A member of a group of soldiers who laugh at Kaladin's leadership and includes a large, tan-skinned individual named Rock who helps move the bridge crew across a chasm."
+    },
+    {
+        "entity": "heraldic forces",
+        "summary": "The Heraldic Forces are a military organization within the kingdom where positions are awarded for valor, though casualties among its ranks are significant."
+    },
+    {
+        "entity": "Tranquiline Halls",
+        "summary": "The Tranquiline Halls are a holy location in the afterlife where the finest warriors join the Heralds to fight against the Voidbringers, representing the highest Calling for men and women in this world."
+    },
+    {
+        "entity": "roion",
+        "summary": "Highprince Roion is a tall, light-skinned man with a dark, well-trimmed beard who is bitter about an insult from Wit and has been attempting to favor his own claim in succession contracts offered by Highprince Bethab."
+    },
+    {
+        "entity": "talata",
+        "summary": "Talata is a person tasked with reviewing contracts offered by Highprince Bethab for the use of chulls, specifically to check for language favoring a succession claim, and to investigate the status of Roion regarding an insult from Wit."
+    },
+    {
+        "entity": "bethab",
+        "summary": "Bethab is a highprince who has been bold since Navani left and previously offered contracts to the king for the use of his chulls, attempting to include language favoring his succession claim."
+    },
+    {
+        "entity": "codes",
+        "summary": "The Codes are a set of relics from old Alethkar that were found by a man who followed them until his death, containing specific commands such as the instruction for officers to avoid strong drink during times of war."
+    },
+    {
+        "entity": "Ral",
+        "summary": "Ral is a man in the town who works as a carpenter and serves as an instructor for Tien, though he is reportedly dissatisfied with the boy's work."
+    },
+    {
+        "entity": "Rall Elorim",
+        "summary": "Rall Elorim is a large city in the world, noted as the second largest after Kasitor and referred to as the City of Shadows."
+    },
+    {
+        "entity": "Kurth",
+        "summary": "Kurth is a city known as the City of Lightning, mentioned alongside Rall Elorim as a destination of exotic tales and travel that the character Kal wishes to explore."
+    },
+    {
+        "entity": "jost",
+        "summary": "Jost is a fourteen-year-old boy and senior among a group of older boys who gather at the foot of a hill, possessing a broad chest and stocky legs like his father. He is the brother of Jest and is currently away from the group because he is helping his father, Old Tarn, manage a patch of polyps that are not growing right."
+    },
+    {
+        "entity": "Mord",
+        "summary": "Mord is one of a group of older boys with solid, Alethi darkeyes names who gather at the foot of a hill alongside Jost, Jest, Tift, Naget, and Khav. He is distinguished from Kaladin, whose name is described as different from the others in the group."
+    },
+    {
+        "entity": "Naget",
+        "summary": "Naget is a lighteyed boy with light hair and spindly limbs who is the tallest among a group of older darkeyes boys, including Kaladin. He questions Kaladin about the possibility of a darkeyes becoming a lighteyes, citing wealthy merchants marrying lowborn lighteyes as a precedent."
+    },
+    {
+        "entity": "khav",
+        "summary": "Khav is a boy with low eyebrows and a perpetual scowl who possesses a solid, Alethi darkeyes name, distinguishing him from Kaladin. He expresses resentment toward the suggestion that farming is a second-class option, noting the hypocrisy of those who claim it is acceptable while treating farmers as inferior."
+    },
+    {
+        "entity": "angerspren",
+        "summary": "Angerspren are bright red entities that begin to appear in small pools at a person's feet when they become angry, as demonstrated when Jost's anger caused them to manifest."
+    },
+    {
+        "entity": "spiritual realm",
+        "summary": "The spiritual realm is a destination where the Almighty calls all men eventually, described as a place where a cook would have no purpose."
+    },
+    {
+        "entity": "great concourse of kharbranth",
+        "summary": "The Great Concourse of Kharbranth is a location where a surgeon trained a man who subsequently trained Kaladin's father."
+    },
+    {
+        "entity": "yake",
+        "summary": "Yake is a bridge-leader serving under Kaladin who was wounded in the arm by an arrow during a previous run, reducing his crew's available members."
+    },
+    {
+        "entity": "malop",
+        "summary": "Malop is a thick-haired soldier with a bushy black beard and glyphward tattoos on his hands who serves as one of the last stragglers in Kaladin's squad."
+    },
+    {
+        "entity": "bridge seven",
+        "summary": "Bridge Seven is a military unit of bridgemen who are currently floundering under heavy arrow fire during a charge toward the Shattered Plains, suffering significant casualties before collapsing into the chasm."
+    },
+    {
+        "entity": "drehy",
+        "summary": "Drehy is a soldier who defends Rock's position in the front line and shoves Sigzil as he passes, later engaging in conversation with Kaladin and Torfin."
+    },
+    {
+        "entity": "adis",
+        "summary": "Adis is a bridgeman who serves in Kaladin's squad, positioned at the front of the formation alongside Corl. He is killed during a battle when arrows strike his squad, resulting in his death along with Murk, Leyten, and Corl."
+    },
+    {
+        "entity": "corl",
+        "summary": "Corl is a bridgeman who stands at the edge of the formation alongside Adis and is killed by arrows during the initial assault."
+    },
+    {
+        "entity": "koorm",
+        "summary": "Koorm is a bridge-man who is found dead by Kaladin after he scrambles back toward the bridge."
+    },
+    {
+        "entity": "Gadol",
+        "summary": "Gadol is a bridgeman who survives a cavalry charge with a fatal arrow wound in his side and a gash on his temple, requiring Kaladin to drag him away from the battlefield and assess his critical condition alongside other wounded soldiers."
+    },
+    {
+        "entity": "dabbid",
+        "summary": "Dabbid is a bridgemen who is found huddled beside a chasm lip with an arm twisted at an awkward angle and eyes dazed from shock. He is dragged away from the edge by Kaladin while crawling beneath flying arrows, eventually collapsing due to exhaustion and weakness."
+    },
+    {
+        "entity": "peet",
+        "summary": "Peet is a bridgeman who accompanies Kaladin and his squad, noted for looking only at his feet during a conversation with the other men."
+    },
+    {
+        "entity": "vandonas",
+        "summary": "Vandonas is a painter who visited the Alethi warcamps once and created a map depicting perhaps an idealized representation of them."
+    },
+    {
+        "entity": "rayse",
+        "summary": "Rayse is a loathsome, crafty, and dangerous individual who holds the most frightening and terrible of all the Shards. He is described as being more dangerous than Ati, who was once kind and generous."
+    },
+    {
+        "entity": "Avaran",
+        "summary": "Avaran is an Alethi darkeyes who serves as a companion to the narrator, specializing in fine detail work alongside others who handle larger pieces like saddles."
+    },
+    {
+        "entity": "tibon",
+        "summary": "Tibon is a lighteyed member of the Cobalt Guard who waits outside the warcamp alongside Marks and Falksi to accompany Adolin and Janala onto the street."
+    },
+    {
+        "entity": "marks",
+        "summary": "Marks is a lighteyed member of the Cobalt Guard who waits outside the warcamp alongside Tibon and Falksi to accompany Adolin and Janala onto the street."
+    },
+    {
+        "entity": "falksi",
+        "summary": "Falksi is a young Azish darkeyes who serves as Janala's handmaiden and accompanies her mistress, along with Tibon and Marks, as they walk through the warcamp."
+    },
+    {
+        "entity": "kholin glyphpair",
+        "summary": "A distinctive emblem worn on the back and breast of Adolin's simple blue military coat, serving as a recognizable symbol of his Kholin lineage."
+    },
+    {
+        "entity": "teshav",
+        "summary": "Teshav is a woman with black Alethi hair streaked with blond and violet eyes who serves as an attendant scribe and wife to an officer trusted by Dalinar. She reports on the progress of a saddle girth investigation for Brightlord Adolin, noting that no witnesses or suspicious financial activity have been found."
+    },
+    {
+        "entity": "aladar",
+        "summary": "Highprince Aladar is a noble leader who commands a warcamp and possesses the authority to offer shelter to others during a storm."
+    },
+    {
+        "entity": "thanadal",
+        "summary": "Thanadal is a highprince whose forces wear red and brown colors, and who is currently unable to meet with Dalinar due to being behind on payments."
+    },
+    {
+        "entity": "hatham",
+        "summary": "Hatham is a highprince who is significantly behind on his payments to the king, though he is described as treating the protagonist with exceeding politeness."
+    },
+    {
+        "entity": "fourth battalion",
+        "summary": "The Fourth Battalion is a military unit commanded by Dalinar, tasked with establishing a pattern of patrol in the Unclaimed Hills to prevent lawlessness under the Alethi monarchy."
+    },
+    {
+        "entity": "kadash",
+        "summary": "Kadash is a tall, elderly lighteyes man who serves as an ardent, distinguished by his shaved head, square beard, and a twisting scar from his past as an army officer. He is noted for his late start in the ardentia and his belief that religion is romantic."
+    },
+    {
+        "entity": "ruthar",
+        "summary": "Highprince Ruthar is a member of the Alethi leadership who wears a short black beard and a red silk coat, and he displays annoyance at Dalinar's easy access to the king."
+    },
+    {
+        "entity": "Reshi",
+        "summary": "The Reshi are a faction of people living on a tiny island off the coast of Kholinar, known for their religious practices and experiments with spren and chemistry."
+    },
+    {
+        "entity": "elthebar",
+        "summary": "Elthebar is a character who provided a prediction regarding the likelihood of a highstorm occurring that day, though his past accuracy has been questioned."
+    },
+    {
+        "entity": "heb",
+        "summary": "Heb is a male character who is addressed by a woman with a mix of relief and nervousness, suggesting he is a significant figure in her life, possibly a husband or farmhand, who has just rescued a girl."
+    },
+    {
+        "entity": "windstance",
+        "summary": "Windstance is a classical fighting style utilized by characters like Dalinar and Adolin, characterized by sweeping strikes and grace, which they adopt when wielding weapons such as a fire poker or a Shardblade."
+    },
+    {
+        "entity": "smokestance",
+        "summary": "Smokestance is a fighting style utilized by Dalinar when wielding an imperfect weapon like an iron fire poker or a wooden table leg, allowing him to adapt his movements to the fluid nature of combat against creatures that bleed smoke."
+    },
+    {
+        "entity": "battar",
+        "summary": "Battar is a person addressed by a woman holding a child and a lamp, who speaks to them as if they possess sweet wisdom."
+    },
+    {
+        "entity": "seeli",
+        "summary": "Seeli is the young daughter of the woman referred to as Taffa and the man named Dalinar, who is described as being about six or seven years old."
+    },
+    {
+        "entity": "taffa",
+        "summary": "Taffa is a woman who accompanies Dalinar on a journey through a rough, rocky landscape at night, assisting him when he slips and carrying a lamp."
+    },
+    {
+        "entity": "lost radiants",
+        "summary": "The Lost Radiants were the original name for the group known as the Knights Radiants, distinguished by a symbol featuring a stylized double eye and eight spheres connected with two at the center."
+    },
+    {
+        "entity": "urithiru",
+        "summary": "Urithiru is the central location where the knight's orders are headquartered, though its members reside in various cities across Alethela."
+    },
+    {
+        "entity": "alethela",
+        "summary": "Alethela is the historical name for the region that has since become known as Alethkar, where the orders are centered but the inhabitants live in various cities across the land."
+    },
+    {
+        "entity": "alethk",
+        "summary": "Alethk is a location, specifically a city or settlement, as indicated by Dalinar's question asking if the listener lives there."
+    },
+    {
+        "entity": "midnight essence",
+        "summary": "A mysterious substance released by an unknown source that is distinct from the Voidbringers, though its connection to the approaching Desolation is noted by Harkaylain."
+    },
+    {
+        "entity": "harkaylain",
+        "summary": "Harkaylain is a figure who claims the Desolation is close, possessing a reputation for rarely being wrong."
+    },
+    {
+        "entity": "brightlord wistiow",
+        "summary": "Brightlord Wistiow was the deceased citylord of the city, whose death two months prior left the position unfilled and whose death is contrasted with the current father's alleged crimes. He is remembered by the people as a leader who was not corrupt like the current father, who is accused of stealing the spheres from him."
+    },
+    {
+        "entity": "miasal",
+        "summary": "Miasal is a young woman who has sustained a head wound and whose chest has stopped moving, causing concern for her life."
+    },
+    {
+        "entity": "alim",
+        "summary": "Alim is a character who has been sent to fetch Kal's father while others pull Harl back, recognizing Kal as the girl's best hope."
+    },
+    {
+        "entity": "valama",
+        "summary": "Valama is a person who returns with a candle's flame to assist Kal in treating a severe wound by providing light for the procedure."
+    },
+    {
+        "entity": "sel",
+        "summary": "Sel is a location visited by the narrator, the significance of which is demonstrated by the aftermath of a brief visit."
+    },
+    {
+        "entity": "hav",
+        "summary": "Hav is a sergeant who recruits new soldiers, instructs them to divide their minds into 'us' and 'them' to survive war, and is the specific individual recruits must ask for upon arriving at the army."
+    },
+    {
+        "entity": "vedens",
+        "summary": "Vedens are a group of foreign soldiers, frequently seen alongside Thaylens, who are characterized by their scraggly appearances, unshaven faces, and haunted eyes."
+    },
+    {
+        "entity": "koolf",
+        "summary": "Koolf is a brideman who was killed during an assault, resulting in two additional deaths alongside Amark."
+    },
+    {
+        "entity": "bridge three",
+        "summary": "Bridge Three is a military unit stationed in a barrack, led by a bridgeleader who scowls at Kaladin after Gaz attempts to flee from him. The unit is distinguished from Bridge Four, which is considered unlucky by the other crews."
+    },
+    {
+        "entity": "bussik",
+        "summary": "Bussik is a bridgeleader who leads a team that lost two-thirds of its men the previous day. He is currently attempting to convince Gaz that his team is too weak to proceed with the current mission."
+    },
+    {
+        "entity": "aona",
+        "summary": "Aona is a character who, along with Skai, is confirmed to be dead in a disaster that resulted in the Splintering of what they held, presumably to prevent challenges to Rayse."
+    },
+    {
+        "entity": "skai",
+        "summary": "Skai is a character who, along with Aona, is confirmed to be dead, having held something that was subsequently Splintered, presumably to prevent anyone from rising up to challenge Rayse."
+    },
+    {
+        "entity": "marakal",
+        "summary": "Marakal is a person addressed by Wit as 'Brightness Marakal' and 'Brightlord Marakal' while he steps onto an island, though Wit criticizes his hairstyle and expresses a desire to avoid supper due to illness."
+    },
+    {
+        "entity": "cadilar",
+        "summary": "Cadilar is a person addressed as Brightlord by Wit, who is described as having a face that reminds Wit of someone dear to him. He is characterized as wizened and hesitates when Wit asks if he is really who Wit thinks he is."
+    },
+    {
+        "entity": "neteb",
+        "summary": "Neteb is a character addressed by Wit as 'Brightlord,' who is present in a scene involving Lady Alami, Dalinar, and Taselin. Wit makes a sarcastic comment about Neteb's unique smell, suggesting he may have fought a wet whitespine."
+    },
+    {
+        "entity": "alami",
+        "summary": "Lady Alami is a noblewoman addressed by Wit, who comments on her silence to preserve his illusions regarding her intelligence."
+    },
+    {
+        "entity": "taselin",
+        "summary": "Taselin is a Brightlord who waddles past Wit while engaging in an experiment to prove a maximum threshold of human idiocy."
+    },
+    {
+        "entity": "habatab",
+        "summary": "Habatab is a character addressed by Wit, who is sarcastically praised for wearing a red shirt and suffering a sunburn while Wit complains about the ease of his job."
+    },
+    {
+        "entity": "tumul",
+        "summary": "Tumul is a Brightlord who is present in the room and is the subject of Wit's sarcastic remark regarding his dull mind."
+    },
+    {
+        "entity": "yonatan",
+        "summary": "Yonatan is a character addressed by Wit as Brightlord Yonatan, who is present at the Plains alongside his wife Lady Meirav and is noted for wearing a hat that doubles as a tent."
+    },
+    {
+        "entity": "meirav",
+        "summary": "Meirav is a character addressed alongside Lord Yonatan, who is noted for wearing a hat that doubles as a tent, in a conversation involving Wit and Brightlord Habatab."
+    },
+    {
+        "entity": "storms",
+        "summary": "In the provided text, 'storms' is a term used by a youth to address his father, indicating it functions as a name or title for a person rather than a weather phenomenon."
+    },
+    {
+        "entity": "plate and blade",
+        "summary": "Plate and Blade is a weapon or fighting style referenced by Adolin as the means he will use to duel opponents and demonstrate the meaning of honor."
+    },
+    {
+        "entity": "mathana",
+        "summary": "Mathana is a formal term used by Dalinar to address Navani, acknowledging her status as an older sister despite her being only three months his senior."
+    },
+    {
+        "entity": "Navani Kholin",
+        "summary": "Navani Kholin is the mother of King Elhokar and the widow of the late King Gavilar. She is a dangerous and capable woman who led the research to develop grandbows using fabrial science and is known for drawing maps of battles."
+    },
+    {
+        "entity": "torol sadeas",
+        "summary": "Torol Sadeas is a Brightlord appointed by King Elhokar to serve as High-prince of Information and investigate the threats against the king's life."
+    },
+    {
+        "entity": "highprince of war",
+        "summary": "The Highprince of War is a high-ranking official within the kingdom's hierarchy, holding authority comparable to the Highprince of Information, though the specific duties and nature of this role are not detailed in the provided text."
+    },
+    {
+        "entity": "bavadin",
+        "summary": "Bavadin is a character mentioned in a context where the speaker admits to holding a grudge against both Rayse and Bavadin, indicating they are a specific individual involved in the speaker's personal conflicts."
+    },
+    {
+        "entity": "earless jaks",
+        "summary": "Earless Jaks is a bridgemen who works alongside youthful Dunny to tow a wooden sled bearing a large stone, and he expresses concern that bridgemen are not allowed out of the warcamp without supervision."
+    },
+    {
+        "entity": "jaks",
+        "summary": "Jaks is a bridgeman who works alongside Dunny to tow a wooden sled bearing a large stone, and he is noted for being earless."
+    },
+    {
+        "entity": "peaks",
+        "summary": "The Peaks are a specific location mentioned by Rock, who expresses a desire to return there and describes a unique social hierarchy where the relatives of a brightlord serve as servants."
+    },
+    {
+        "entity": "natam",
+        "summary": "Natam is a bridgeman who approaches Syl and Kaladin carrying a smaller stone while attempting not to strain himself."
+    },
+    {
+        "entity": "skar",
+        "summary": "Skar is a short, wiry bridgeman with dark hair and angular features who serves alongside Kaladin. Despite Kaladin's attempts to engage him in conversation or song, Skar remains unresponsive and hostile, often returning rude gestures or scowls. He is one of the few bridemen present in the camp who refuses to interact with Kaladin, contrasting with the more open attitudes of others like Rock."
+    },
+    {
+        "entity": "blades",
+        "summary": "Blades are blessed weapons held by royal guards and other kingdoms, with the belief that the first nuatoma to obtain one would become king."
+    },
+    {
+        "entity": "herdaz",
+        "summary": "Herdaz is a kingdom that possesses a single Blade and a set of Plate, which are passed down through the royal line."
+    },
+    {
+        "entity": "shards",
+        "summary": "Shards are blessed weapons, specifically referring to Shardblades and Shardplate, which are highly sought after by the nuatoma and considered a source of great shame if a peak lacks them."
+    },
+    {
+        "entity": "mishim",
+        "summary": "Mishim is the final moon, appearing as a small green disk in the eastern sky while Nomon sets in the west."
+    },
+    {
+        "entity": "gallery of maps",
+        "summary": "The Gallery of Maps is a domed structure made of Soulcast stone that serves as a location within the king's residence, featuring large skylights and shalebark formations."
+    },
+    {
+        "entity": "sunmaker",
+        "summary": "The Sunmaker is the last Alethi king who united the highprinces, noted for beginning his conquest at the age of seventeen. He is a historical figure revered by Gavilar and referenced by Jasnah in discussions regarding the cosmere's history."
+    },
+    {
+        "entity": "prime map",
+        "summary": "A large map depicting the Shattered Plains and surrounding plateaus, which Dalinar studies to observe the arrangement of the land and the chasms."
+    },
+    {
+        "entity": "malasha",
+        "summary": "Malasha is a character described as being rather religious, whom Adolin considers a better prospect than himself following a disastrous walk, though their relationship is currently rocky."
+    },
+    {
+        "entity": "brightlord seveks",
+        "summary": "The title refers to a Brightlord, a high-ranking noble whose daughter is mentioned in the text. The specific identity of this Brightlord is not explicitly defined in the provided context."
+    },
+    {
+        "entity": "nanha terith",
+        "summary": "Nanha Terith is the baker's wife, described as a fat woman with curly dark hair who is seen gossiping in front of the bakery. She is the subject of a calumny and reacts with discomfiture when Kal gives her a sharp look."
+    },
+    {
+        "entity": "nanha relina",
+        "summary": "Nanha Relina is a character who stands gossiping in front of a bakery alongside Nanha Terith, the baker's wife."
+    },
+    {
+        "entity": "terith",
+        "summary": "Terith is the wife of the local baker, described as a fat woman with curly dark hair who is frequently seen gossiping in front of the bakery. She is known for spreading calumnies, which causes her to feel discomfiture when Kaladin gives her a sharp look."
+    },
+    {
+        "entity": "miliv",
+        "summary": "Miliv was the head steward of Brightlord Wistiow and the husband of the nurse, who held a grudge against Kal's family. He is later revealed to have died, at which point the servant Natir assumed the role of steward."
+    },
+    {
+        "entity": "Brightlord Roshone",
+        "summary": "Brightlord Roshone is the new citylord whose first speech the group intends to attend, though Lirin notes there is no time to change his name."
+    },
+    {
+        "entity": "jarel",
+        "summary": "Jarel is a former warrior who once served as a mentor figure to Kal, advising him that legendary heroes are not necessarily polite and that killing people and fancy talking do not always go together."
+    },
+    {
+        "entity": "Litima",
+        "summary": "Litima is a tall, plump scribe who wears a violet silk gown and reads from The Way of Kings to Dalinar in his sitting room."
+    },
+    {
+        "entity": "Marat",
+        "summary": "Marat is a location from which fine woven rugs were imported to furnish Dalinar's sitting room."
+    },
+    {
+        "entity": "brightness litima",
+        "summary": "Brightness Litima is a character who reads from a tome in a darkened monastery chamber, describing a vision of light and darkness while addressing Dalinar."
+    },
+    {
+        "entity": "isasik shulin",
+        "summary": "Isasik Shulin is the royal cartographer who created smaller copies of the maps that hung in the Gallery for Dalinar."
+    },
+    {
+        "entity": "Teleb",
+        "summary": "Teleb is a high officer on duty in the war room who serves as a straight-backed man with light green eyes, a braided hairstyle, and a blue tattoo marking him as an Oldblood. He is married to Kalami, a historian who records meetings, and he provides Dalinar with strategic assessments regarding chasmfiend movements and the routes of Bright-lord Aladar and Brightlord Sadeas."
+    },
+    {
+        "entity": "kalami",
+        "summary": "Kalami is the wife of Teleb, a high officer on duty in the war room, and a noted historian who requested permission to record the war meetings to scribe a history."
+    },
+    {
+        "entity": "perethom",
+        "summary": "Perethom is an infantrylord who reports to Brightlord Dalinar, confirming that the Second and Third Battalions are on duty and forming ranks to march."
+    },
+    {
+        "entity": "second and third battalions",
+        "summary": "The second and third battalions are military units currently on duty, forming ranks to march under the command of an infantrylord."
+    },
+    {
+        "entity": "bridge squad",
+        "summary": "First Bridge Squad is a military unit gathered under the command of Havarah, the bridgelord, who reports that the archery company is ready."
+    },
+    {
+        "entity": "Havarah",
+        "summary": "Havarah is the bridgelord of First Bridge Squad, a short man with Herdazian blood who commands the rear guard and reports that the archery company is ready."
+    },
+    {
+        "entity": "ashelem",
+        "summary": "Ashelem is a location or organization from which a message was received by Havarah, the bridgelord, indicating that the archery company is ready."
+    },
+    {
+        "entity": "ilamar",
+        "summary": "Ilamar is a squat lighteyed officer with red hair and a long red mustache who serves as a cavalrylord. He leads the cavalry charge across the fallen bridges and is seen conferring with Dalinar's father in the staging area."
+    },
+    {
+        "entity": "moratel",
+        "summary": "Moratel is a lesser officer who accompanies a messenger to welcome Sadeas and is identified as the individual Dalinar intends to send."
+    },
+    {
+        "entity": "sureblood",
+        "summary": "Sureblood is a white stallion belonging to Dalinar and Adolin, who is brought to Adolin by a member of the Cobalt Guard after the armorers finish adjusting his Shardplate."
+    },
+    {
+        "entity": "highprince of information",
+        "summary": "The Highprince of Information is a specific title held by a person whom Dalinar waits for before moving out, distinct from the other Highprinces mentioned in the context."
+    },
+    {
+        "entity": "Impossible Falls of Kholinar",
+        "summary": "The Impossible Falls of Kholinar is a specific location in the city of Kholinar that serves as a memorable landmark where the protagonist once stood with his brother."
+    },
+    {
+        "entity": "lavis",
+        "summary": "Lavis is a region where grain is grown by farmers and sold to merchants at a low price before being resold in cities at a significantly higher cost."
+    },
+    {
+        "entity": "halls",
+        "summary": "The Halls are a location referenced by the characters as a source of light and a place where the Alethi side is situated, distinct from the Plains and chasms."
+    },
+    {
+        "entity": "Maps",
+        "summary": "Maps is a soldier who is called this name because of a birthmark on his chest that he claims is an exact map of Alethkar. He is described as a flat-faced fellow with a bushy beard and thick eyebrows who stands among a group of men near a fire."
+    },
+    {
+        "entity": "jacks",
+        "summary": "Jacks is a plural noun referring to a group of individuals, specifically identified in the text as 'Earless Jacks,' who are engaged in scavenging items from a battlefield, such as pulling a boot from a dead foot."
+    },
+    {
+        "entity": "nalan",
+        "summary": "Nalan is a location mentioned in a picture of a Herald, specifically identified as one of the two Heralds of Jezerezeh."
+    },
+    {
+        "entity": "torfin",
+        "summary": "Torfin is a soldier who serves in Kaladin's squad, often communicating from behind a bridge structure and reacting with fear to the darkening sky."
+    },
+    {
+        "entity": "kalana",
+        "summary": "Lady Kalana is a figure addressed by Teleb, whom he intends to consult regarding the creation of a new design."
+    },
+    {
+        "entity": "ladent",
+        "summary": "Ladent is a person who is being sought by Dalinar for the purpose of inspections."
+    },
+    {
+        "entity": "fifth battalion",
+        "summary": "A military unit composed of soldiers who practice close order and combat drills in their practice yards, led by a commander who salutes Highprince Dalinar."
+    },
+    {
+        "entity": "danlan",
+        "summary": "Danlan is a lighteyed woman who serves as a scribe, utilizing a spanreed to record information for Brightlord Adolin. She is characterized by a breathy, husky voice and is noted for her proficiency in operating the spanreed with just her freehand."
+    },
+    {
+        "entity": "twenty-second companies",
+        "summary": "The Twenty-second Companies are a military unit participating in close order drill alongside the Twenty-first Companies, an exercise valued for its discipline and formation practice."
+    },
+    {
+        "entity": "havrom",
+        "summary": "Havrom is a Fifth Battalionlord who wears a beard styled after the Horneater fashion and has relatives among the Peakfolk. He confirms to Highprince Dalinar that the requested men are waiting in the audience tent."
+    },
+    {
+        "entity": "fifth battalionlord",
+        "summary": "Havrom, who holds the title of Fifth Battalionlord, waits in a line alongside other companylords to salute Highprince Adolin and Highprince Dalinar."
+    },
+    {
+        "entity": "highprince",
+        "summary": "A title of high nobility held by Sadeas and Dalinar, addressed by Havrom and others in the context of military command and courtly protocol."
+    },
+    {
+        "entity": "tadet",
+        "summary": "Tadet is a short ardent who stands by Dalinar's tent and is tasked with interviewing individuals separately to extract specific details about Sadeas's words and responses."
+    },
+    {
+        "entity": "battalions",
+        "summary": "Battalions are military units within the army, specifically referenced here as Battalions Six and Seven, which house the barracks where Dalinar and his guards are stationed."
+    },
+    {
+        "entity": "danlan morakotha",
+        "summary": "Danlan Morakotha is a young woman who arrived at the camp to spend time with her father, Brightlord Morakotha, and was subsequently offered a position among the clerks by Adolin."
+    },
+    {
+        "entity": "morakotha",
+        "summary": "Danlan Morakotha is a woman who arrived at the camp to spend several months with her father, Brightlord Morakotha, and was offered a position among the clerks by Adolin."
+    },
+    {
+        "entity": "tukar",
+        "summary": "Tukar is a location referenced in correspondence sent across the ocean to Jasnah, indicating it is a place where she may be situated at the time of the message."
+    },
+    {
+        "entity": "brightness lalai",
+        "summary": "Brightness Lalai is a clerk who assists Dalinar's brother, who is recovering from an encounter with a chasmfiend."
+    },
+    {
+        "entity": "Drying Sea",
+        "summary": "A geographical location situated south of the Shattered Plains, serving as a reference point for a valley located approximately two weeks' march away where a significant expedition meeting occurred."
+    },
+    {
+        "entity": "deathbend river",
+        "summary": "The Deathbend River is a waterway with a tributary that Dalinar leads scouts up while his father scouts downstream, where they discover a Parshendi camp on the opposite bank."
+    },
+    {
+        "entity": "voidbringer",
+        "summary": "A terrifying entity depicted in ancient illustrations as a horrific creature, distinct from chasmfiends, whose true appearance was unknown to the artists who drew it."
+    },
+    {
+        "entity": "Rysn",
+        "summary": "Rysn is a character who arrives in Shinovar and observes the strange, unyielding grass that does not move or disappear as expected elsewhere. She carries a wooden tripod to the center of the caravan's circle to investigate the phenomenon."
+    },
+    {
+        "entity": "Vstim",
+        "summary": "Vstim is an older Thaylen merchant who serves as Rysn's legal father and apprentice master, managing ledgers and overseeing the caravan's operations."
+    },
+    {
+        "entity": "babsk",
+        "summary": "A type of clothing worn by a young woman, described as less fashionable than the modern silk vest and shirt she is wearing."
+    },
+    {
+        "entity": "Misted Mountains",
+        "summary": "The Misted Mountains are a range of white peaks located in the distance that shelter Shinovar. They cause highstorms to break and fade, making Shinovar one of the few places in Roshar where these storms do not reign."
+    },
+    {
+        "entity": "kylrm",
+        "summary": "Kylrm is the head of the guards who commands six men and is instructed by Vstim to lower their bows despite being outnumbered."
+    },
+    {
+        "entity": "thresh-son-esan",
+        "summary": "Thresh-son-Esan is a character addressed by Vstim in a scene involving a Thaylen merchant and a lead wagon."
+    },
+    {
+        "entity": "Axies the Collector",
+        "summary": "Axies the Collector is a character who is naked and covered in tattoos, wearing only waist wraps, and is present in the region of Iri on the northwestern rim of Roshar."
+    },
+    {
+        "entity": "Axies",
+        "summary": "Axies is a character who promises to vacate a location, comments on the lack of spare pants and the presence of a lavis sack, and expresses concern about his nudity being noticed by the good people of Kasitor."
+    },
+    {
+        "entity": "Kasitor",
+        "summary": "Kasitor is a large Iriali city, second in size only to Rall Elorim, which serves as the setting for the events described in the provided text."
+    },
+    {
+        "entity": "hapron street",
+        "summary": "Hapron Street is a location in the city that suffered significant damage, with half of its homes destroyed."
+    },
+    {
+        "entity": "Iri",
+        "summary": "Iri is a location situated on the northwestern rim of Roshar, characterized by warmer weather and a population of golden-haired Iriali men who often wear only waist wraps."
+    },
+    {
+        "entity": "Azir",
+        "summary": "Azir is a location situated on the northwestern rim of Roshar, known for its warmer weather compared to places like Alethkar. It is a place where the king of Kharbranth, Taravangian, is said to heal the sick."
+    },
+    {
+        "entity": "Cusicesh",
+        "summary": "Cusicesh is a unique spren known as the Protector, worshipped by some as a god and accepted by others as an integral part of the city. It is one of the few known spren types that appears to have only a single member."
+    },
+    {
+        "entity": "Makkek",
+        "summary": "Makkek is a wealthy master who commands Szeth to wear a dramatic, ill-fitting assassin's outfit and orders him to murder Szeth's former companions to conceal the secret of the Oathstone."
+    },
+    {
+        "entity": "Bornwater",
+        "summary": "Bornwater is the largest town in the area, having surpassed Staplind in size, and currently serves as the location of a gambling den opened by a newcomer named Gavashaw to challenge the local crime lord Makkek."
+    },
+    {
+        "entity": "staplind",
+        "summary": "Staplind is a town that was surpassed in size by the larger settlement of Bornwater, serving as a location where the character Makkek considered moving to the city of Kneespike."
+    },
+    {
+        "entity": "kneespike",
+        "summary": "Kneespike is the name of a city located in the area where Bornwater is the largest town, serving as the residence for the local landlord's mansion."
+    },
+    {
+        "entity": "gavashaw",
+        "summary": "Gavashaw is a man who has arrogantly established his residence in a large mansion on the eastern side of Bornwater, securing his position through the favor of the provincial landlord."
+    },
+    {
+        "entity": "storm-light",
+        "summary": "A magical light source used by soldiers, which Szeth retrieves from a spilled pouch of gemstones and is later claimed by a lighteyes who states he is attached to his own storm-light."
+    },
+    {
+        "entity": "valley of truth",
+        "summary": "A location where the protagonist feels he has no place, contrasting with Shinovar and characterized by a sense of displacement rather than a specific physical description."
+    },
+    {
+        "entity": "szeth-son-neturo",
+        "summary": "Szeth-son-Neturo is a male individual addressed by a deep male voice who is described as a work of art and a god, though he is currently being used for petty extortions and murders by a master named Makkek. The voice criticizes his current actions as squandering his potential, comparing him to a high-value stallion hitched to a market wagon or a Shardblade used to slice vegetables."
+    },
+    {
+        "entity": "veden",
+        "summary": "Veden is a man with a deep, accented voice who questions Szeth-son-Neturo about his satisfaction with trivial crimes and the killing of people in backwater mining villages. He is described as an unknown and disliked individual who is not recognized by the stormwarden investigating him."
+    },
+    {
+        "entity": "masly",
+        "summary": "Masly is a location noted in the text, corroborated by Coldwin and Hasavah."
+    },
+    {
+        "entity": "coldwin",
+        "summary": "Coldwin is a character who corroborates the account of the 'ones of ash and fire' alongside Hasavah, as noted in Masly on page 337."
+    },
+    {
+        "entity": "Hasavah",
+        "summary": "Hasavah is a character corroborated by Coldwin regarding the 'ones of ash and fire' who killed like a swarm before the Heralds."
+    },
+    {
+        "entity": "kharbranthian conclave",
+        "summary": "The Kharbranthian Conclave is an underground location situated beneath Jasnah's quarters, characterized by austere stone-carved rooms without windows."
+    },
+    {
+        "entity": "jushu",
+        "summary": "Jushu is the youngest of the brothers and Shallan's older sibling, who disguises his old gambling habit by pretending to steal items from their father to sell, while actually returning the proceeds to help the family."
+    },
+    {
+        "entity": "hanavanar",
+        "summary": "King Hanavanar is the ruler of Jah Keved who is expected to hand over the captured group to the Alethi for execution following the theft incident."
+    },
+    {
+        "entity": "mederia",
+        "summary": "Mederia is the origin of a specific book that Shallan examines, which she describes as feeling arrogant rather than confident."
+    },
+    {
+        "entity": "assuredness movement",
+        "summary": "The Assuredness Movement is a rhetorical theory described by Jasnah as an errorgance, a literary device where scholars intentionally overstate their case, which Shallan considers a concept she could support."
+    },
+    {
+        "entity": "dawnshards",
+        "summary": "Dawnshards are mythological treasures described as weapons that are the same as lighteyes, though the text notes that the Unkalaki possess none. They are highly sought after by the nuatoma, who believe that the first person to obtain a Dawnshard would become king."
+    },
+    {
+        "entity": "honorblades",
+        "summary": "The Honorblades are mythological treasures comparable to the Dawnshards, described as ancient weapons of great power that are sought with caution. In one instance, a simple iron fire poker is noted to gleam like one of these blades, suggesting they may be legendary artifacts or specific types of weapons."
+    },
+    {
+        "entity": "gavarah",
+        "summary": "Gavarah is a historical figure mentioned by Jasnah as a young theorist who proposed the theory of the three realms before reaching her twentieth Weeping, serving as an example of youthful immaturity driving change in the cosmere."
+    },
+    {
+        "entity": "varas",
+        "summary": "Varas is a person who is the subject of a drawing created by a woman, as noted by the king."
+    },
+    {
+        "entity": "Bisig",
+        "summary": "Bisig is a thin bridgeman who was the last holdout to give in to the group's influence, characterized by distinctive red-blond sideburns and a shaved chin and lips."
+    },
+    {
+        "entity": "luten",
+        "summary": "Luten is a man who limps due to a leg injury that was surgically repaired by Kal's father, allowing him to walk again."
+    },
+    {
+        "entity": "horl",
+        "summary": "Horl is a man recognized by Kal in a group of people, distinguished by his wide shoulders, alongside Luten and Balsas."
+    },
+    {
+        "entity": "Balsas",
+        "summary": "Balsas is a man present in the surgery room who is distinguished by wearing a nice new coat."
+    },
+    {
+        "entity": "Varala",
+        "summary": "Varala is a character who translated a text from the third century after the Recreance and, along with Sinbian, claims that a specific city was inaccessible by foot."
+    },
+    {
+        "entity": "bridge fourteen",
+        "summary": "Bridge Fourteen is a designated group of six men assigned to a specific bridge within a military formation, distinguished from other units like Bridge Six and Bridge Three by their size and position in the line."
+    },
+    {
+        "entity": "gancho",
+        "summary": "Gancho is a nickname used by a short man to address Kaladin, likely referring to a distinctive feature or mannerism, though the specific origin of the name is not explained in the provided text."
+    },
+    {
+        "entity": "lopen",
+        "summary": "Lopen is a soldier who identifies himself by a name that is unfamiliar to others, noting that his cousins call him that despite his inquiries yielding no results. He is addressed by Kaladin and directed to the barracks to retrieve a blanket, sandals, and vest from a pile at the back. As he leaves, he waves to several men passing by."
+    },
+    {
+        "entity": "moolie",
+        "summary": "Moolie is a term used by Kaladin to address someone, though the specific identity of the person being addressed is not defined in the provided text."
+    },
+    {
+        "entity": "bridge twenty-seven",
+        "summary": "Bridge Twenty-seven is a structural formation currently wavering under attack, situated alongside Bridge Six and Bridge Seven during a chaotic assault where bridgemen are falling and bridges are crashing to the stones."
+    },
+    {
+        "entity": "talatin",
+        "summary": "Talatin is a Radiant of the Order of Stonewards who is the purported source of a scrap from the lost 'The Poem of the Seventh Morning,' attributed to Guvlow's Incarnate."
+    },
+    {
+        "entity": "guvlow",
+        "summary": "Guvlow is the Incarnate of a source generally held as reliable, who provided a copied fragment of the lost text 'The Poem of the Seventh Morning' to Talatin, a Radiant of the Order of Stonewards."
+    },
+    {
+        "entity": "myalmr",
+        "summary": "Myalmr is the author of the book 'Western Voyages,' which Shallan reads during her study time. The text does not provide further details about the author's identity or the book's contents beyond the title."
+    },
+    {
+        "entity": "soulcastings",
+        "summary": "Soulcastings are a set of drawings depicting Jasnah performing a specific magical act, which are kept hidden within a portfolio alongside sketches of people in the Palanaeum."
+    },
+    {
+        "entity": "Palates of Personality",
+        "summary": "Palates of Personality is a real book that serves as a guide for determining personality types based on food preferences, such as linking a fondness for simberries to a spontaneous and impulsive nature."
+    },
+    {
+        "entity": "habsant",
+        "summary": "Brother Habsant is a member of a group that appears stuffy but is actually not, though he is noted for staring at others and possibly being unable to move. An alias 'hab' refers to a different individual who is a Shardbearer and killed several people, including Raksha and Navar."
+    },
+    {
+        "entity": "akinah",
+        "summary": "Akinah is a city in the Alethi capital region, depicted as a circular pattern on a map alongside other cities like Kholinar and Thaylen City."
+    },
+    {
+        "entity": "thaylen city",
+        "summary": "Thaylen City is a location depicted on a map as a four-pointed star pattern, serving as one of the major cities alongside Kholinar, Vedenar, and Akinah."
+    },
+    {
+        "entity": "dawnsingers",
+        "summary": "According to the speaker, the Dawnsingers are the originators of the glyphs and letters used in the language, which are described as symmetrical."
+    },
+    {
+        "entity": "valhav",
+        "summary": "Valhav is one of the original names for the ten Silver Kingdoms, described as a perfect and symmetrical name alongside Alethela and Shin Kak Nish."
+    },
+    {
+        "entity": "shin kak nish",
+        "summary": "Shin Kak Nish is one of the original names for the ten Silver Kingdoms, described as a perfect and symmetrical name for a lighteyed woman."
+    },
+    {
+        "entity": "abamabar",
+        "summary": "Abamabar is a location referenced by Dalinar as the starting point of a journey to Urithiru, representing a significant distance in the narrative."
+    },
+    {
+        "entity": "sinbian",
+        "summary": "Sinbian is a character who claims the city was inaccessible by foot, a statement that appears to contradict Varala's account and potentially the metaphorical claims of Nohadon."
+    },
+    {
+        "entity": "highstorm",
+        "summary": "Highstorm is a person mentioned in a conversation regarding the arrival of soldiers, though the provided text does not specify their identity or role."
+    },
+    {
+        "entity": "storming horneater",
+        "summary": "A large, lumbering chull-like creature that is part of a group of bridgemen who have left the barrack, with one member expressing a belief that they will find the young bridgeleader alive and relaxing with the Stormfather."
+    },
+    {
+        "entity": "silver kingdoms",
+        "summary": "The Silver Kingdoms were ancient lands once unified under a system of ten thrones, with Urithiru serving as their central city. These realms were originally trained to become bastions of honor and were eventually left as a wilderness after the passing of humankind."
+    },
+    {
+        "entity": "aimia",
+        "summary": "Aimia is a location where the lanceryn died off during the scouring, leading to the belief that large gemhearts were no longer present there."
+    },
+    {
+        "entity": "vorinism",
+        "summary": "Vorinism is a religion that was destroyed by the War of Loss, which shattered it into the devotaries. It is associated with the Radiants and is considered by some scholars to be a myth due to its abandonment before the Lost Radiants turned against mankind."
+    },
+    {
+        "entity": "kadrix",
+        "summary": "Kadrix is a location mentioned in the text as the origin of a greatshell rider, alongside other places like Shinovar and the Purelake."
+    },
+    {
+        "entity": "Ralinsa",
+        "summary": "Ralinsa is the main thoroughfare in the city of Kharbranth that leads down the hillside in switchbacks, connecting the Conclave to the port."
+    },
+    {
+        "entity": "mabrow pigherder",
+        "summary": "Mabrow Pigherder is the owner of a house located in the town of Hearthstone, situated near the commonwater and the breakwall."
+    },
+    {
+        "entity": "natir",
+        "summary": "Natir is a tall servant from the coastal city of Dalilak who serves as the steward to the late Miliv and later to Roshone. He is accompanied by his stern wife, Alaxia, and is responsible for managing the household affairs and quieting the crowd during gatherings."
+    },
+    {
+        "entity": "dalilak",
+        "summary": "Dalilak is a large coastal city located to the north, from which the steward Natir was brought after the death of Miliv."
+    },
+    {
+        "entity": "cabine",
+        "summary": "Cabine is a character described as one of the ten fools who acts like a child despite being an adult."
+    },
+    {
+        "entity": "rillir",
+        "summary": "Rillir is the son of Roshone who enters the kitchens chatting with a companion, criticizing his father's provincial habits and expressing a desire to take him on hunts."
+    },
+    {
+        "entity": "rillir roshone",
+        "summary": "Rillir Roshone is the son of Roshone, a lighteyes master who is described as corrupt and provincial. He is the antagonist Kal addresses, claiming he will not be bullied by Rillir just as his father is not bullied by Kal's father."
+    },
+    {
+        "entity": "darkeyes",
+        "summary": "A social caste or status within the city of Salas that denotes a low position, comparable to being demoted to the tenth dahn, and prevents individuals from inheriting through marriage."
+    },
+    {
+        "entity": "gashash-son-navammis",
+        "summary": "Gashash-son-Navammis is a character whose translation is considered uncertain by the narrator, who intends to verify a quote attributed to him in the fourteenth book of Seld."
+    },
+    {
+        "entity": "goshel",
+        "summary": "Goshel is a slave who was led in a rebellion by the protagonist that ended in slaughter, an event the protagonist survived but feels guilty about having failed."
+    },
+    {
+        "entity": "envisagers",
+        "summary": "The Envisagers are a subject of stories and legends that Teft considers fool's tales and idle dreams, though he acknowledges they possess these narratives and legends."
+    },
+    {
+        "entity": "Alezarv",
+        "summary": "Alezarv is a character who possesses the ability to cross a significant distance in a single heartbeat, a feat that would normally take more than four months to travel on foot."
+    },
+    {
+        "entity": "calinam",
+        "summary": "Calinam is the author of the folktale 'Among the Darkeyed,' which is recorded on page 102 and features stories of instantaneous travel and the Oathgates."
+    },
+    {
+        "entity": "oathgates",
+        "summary": "Oathgates are a form of instantaneous travel mentioned in folktales recorded by Calinam."
+    },
+    {
+        "entity": "philosophy of ideals",
+        "summary": "A belief system that posits morality is distinct from human ideals and exists as a separate whole to be approached by mortals. It asserts that removing evil is ultimately moral, thereby justifying the destruction of evil men."
+    },
+    {
+        "entity": "Sur Kamar",
+        "summary": "Sur Kamar is a person who attended a feast in the narrator's father's name, an event the narrator felt compelled to attend despite the travel required."
+    },
+    {
+        "entity": "bluebar",
+        "summary": "Bluebar is a brand of jam produced by Brother Kabsal, which is given to a recipient with a note suggesting that enjoying it indicates the recipient is mysterious, reserved, and thoughtful."
+    },
+    {
+        "entity": "ambrian",
+        "summary": "Ambrian is the author of the book 'The Last Desolation', as indicated by the attribution in the provided text."
+    },
+    {
+        "entity": "idolir",
+        "summary": "Idolir is a person mentioned alongside Treff in a conversation with Kaladin regarding a crew of men who have lost track of time."
+    },
+    {
+        "entity": "treff",
+        "summary": "Treff is a member of a crew of men who, along with Idolir, were lost to the group for several weeks."
+    },
+    {
+        "entity": "marabethia",
+        "summary": "Marabethia is a location situated beside the sea in the northern Selay lands, known for its inhabitants' passion for public debate at city intersections and their habit of carrying overripe fruit to counter arguments."
+    },
+    {
+        "entity": "brightlord rillir",
+        "summary": "Brightlord Rillir is the son of Brightlord Roshone who is being treated by Lirin for severe injuries sustained from bony spears, including a crushed leg and an object protruding from his abdomen."
+    },
+    {
+        "entity": "alds",
+        "summary": "Alds is a townsman who was on a hunt with Milp but was left behind by Roshone after the party returned with two wounded lighteyes."
+    },
+    {
+        "entity": "milp",
+        "summary": "Milp is a townsman who was on a hunt with Alds but was left behind by Roshone after the party returned with two wounded lighteyes."
+    },
+    {
+        "entity": "cormshen",
+        "summary": "Cormshen is a character who speaks about the loss of light and the burning of skin, as referenced on page 104."
+    },
+    {
+        "entity": "innia",
+        "summary": "Innia is a character who records children's folktales, specifically describing the Voidbringers as recurring threats that arrive like a highstorm and referring to their appearances as the Desolation."
+    },
+    {
+        "entity": "Order of Stonewards",
+        "summary": "The Order of Stonewards is a faction whose members, such as the Radiant Talatin, are described as being able to transform like shadows, though the specific nature of this ability is not detailed in the provided text."
+    },
+    {
+        "entity": "new natanan",
+        "summary": "New Natanan is a location referenced in records collected by hunters, explorers, and tradesmen who were searching for a river passage to reach it."
+    },
+    {
+        "entity": "elhokar kholin",
+        "summary": "Elhokar Kholin is the king's son and heir who rules a feast in his father's absence. He is criticized by his superiors for allowing his sister to use a fabrial, a device considered trivially important compared to Shardblades."
+    },
+    {
+        "entity": "vorin roshar",
+        "summary": "Vorin Roshar is the collective name for the civilizations and regions across the planet, including Alethkar and Kharbranth, where the repercussions of stealing a fabrial could be felt."
+    },
+    {
+        "entity": "brightness hashal",
+        "summary": "Brightness Hashal is a character who speaks with a Kholinar accent and acts as the new captain of a squad, claiming to do so in the name of her husband, Brightlord Matal."
+    },
+    {
+        "entity": "brightlord matal",
+        "summary": "Brightlord Matal is the husband of Brightness Hashal and serves as the new captain of the group. He is described as a tall but spindly man with delicate hands who has not practiced with his sword much."
+    },
+    {
+        "entity": "matal",
+        "summary": "Matal is a tall, spindly lighteye who serves as a commander for Sadeas's soldiers and acts as a liaison to Hashal's husband, providing orders to Kaladin's crew before the final assault."
+    },
+    {
+        "entity": "durk",
+        "summary": "Durk is a character who served as a mentor to Kaladin, offering him advice on gambling and superstition, and previously referred to Kaladin as a natural-born soldier."
+    },
+    {
+        "entity": "yulay",
+        "summary": "Yulay is a location where groups of people discuss the Radiants and express a desire for their return."
+    },
+    {
+        "entity": "highmarshal amaram",
+        "summary": "Highmarshal Amaram is a renowned soldier and head of Alethi defense in the area, who appears to welcome a warlord and leads an army of six thousand men preparing for battle."
+    },
+    {
+        "entity": "Waber",
+        "summary": "Waber is a character who is tasked by Roshone to gather the townspeople for a full town meeting and is present in the square to help erect a canopy as the rain intensifies."
+    },
+    {
+        "entity": "alaxia",
+        "summary": "Alaxia is the stern wife of Natir, the steward of Roshone, who assists Amaram in recruiting volunteers for his undermanned forces by reading names from a list."
+    },
+    {
+        "entity": "Callins",
+        "summary": "Callins is a farmer who addresses a noble as Brightlord and questions the necessity of a specific duty."
+    },
+    {
+        "entity": "abry",
+        "summary": "Abry is a character who speaks in the narrative, agreeing with a previous statement."
+    },
+    {
+        "entity": "Agil",
+        "summary": "Agil is a character listed by Alaxia alongside Caull, identified specifically as the son of Marf."
+    },
+    {
+        "entity": "marf. caull",
+        "summary": "Marf. Caull is the father of Agil, a character listed by Alaxia alongside his son and grandfather Taleb."
+    },
+    {
+        "entity": "taleb",
+        "summary": "Taleb is the father of Caull, who is listed alongside Agil, son of Marf, on a list read by Alaxia."
+    },
+    {
+        "entity": "habrin",
+        "summary": "Habrin is the son of Arafik, listed alongside Jorna and Tien as individuals introduced by Alaxia."
+    },
+    {
+        "entity": "arafik",
+        "summary": "Arafik is the father of Habrin, who is listed alongside other individuals such as Jorna and Tien in a group introduced by Alaxia."
+    },
+    {
+        "entity": "jorna",
+        "summary": "Jorna is a character introduced as the son of Loats, listed alongside other individuals such as Habrin and Tien during a formal introduction."
+    },
+    {
+        "entity": "loats",
+        "summary": "Loats is the father of Jorna, who is listed alongside other individuals such as Habrin and Tien in a sequence of names."
+    },
+    {
+        "entity": "hearth-stone",
+        "summary": "Hearth-stone is the location where Roshone remains trapped after seeking revenge, despite the death of his son."
+    },
+    {
+        "entity": "yelig-nar",
+        "summary": "Yelig-nar, also known as Blightwind, is a character who possesses the ability to speak like a man but is accompanied by the wails of those he consumes. He is a destructive force responsible for slaughtering wordsmen and breaking into the chancery, contributing to the near-destruction of the world and the loss of half the members of many families."
+    },
+    {
+        "entity": "blightwind",
+        "summary": "Blightwind is the name given to Yelig-nar, a being capable of speaking like a man whose voice is often accompanied by the wails of those he consumed."
+    },
+    {
+        "entity": "Traxil",
+        "summary": "Traxil is the author of a quote regarding the Unmade, which is considered a primary source though its authenticity is doubted."
+    },
+    {
+        "entity": "klade",
+        "summary": "Klade is a character who frequently asks about the Parshendi's music and expresses a carefree attitude toward highstorms destroying their crude crem and stone buildings."
+    },
+    {
+        "entity": "stormwarden matain",
+        "summary": "Stormwarden Matain is a scholar who accompanied the king and dictated a record describing the first Parshendi hunting party encountered by the group."
+    },
+    {
+        "entity": "matain",
+        "summary": "Matain is a source of an account regarding a man's interest in the Parshendi, their language, society, and music before he could have known about their Shardblades."
+    },
+    {
+        "entity": "vanrial",
+        "summary": "The Vanrial is an order of artists who reside on the slopes of the Silent Mount in Jah Keved and are known for singing ancient songs that may have been written by the Heralds. The city of Vanrial is also referenced as a place abandoned before the Lost Radiants turned against mankind, with its history preserved only in fragments."
+    },
+    {
+        "entity": "tifandor",
+        "summary": "Tifandor is a person whose biography is referenced and sought by Shallan, and whose name is mentioned by another individual standing at the room's exit."
+    },
+    {
+        "entity": "aharietiam",
+        "summary": "Aharietiam is the name of the final Desolation, a cataclysmic event led by the Heralds that cast the Voidbringers back into the Tranquiline Halls and ended the Heraldic Epochs."
+    },
+    {
+        "entity": "ardentia",
+        "summary": "The ardentia is a faction within the social hierarchy where membership determines one's status, with leaving the group resulting in severe demotion and loss of resources."
+    },
+    {
+        "entity": "Veden City",
+        "summary": "Veden City is a location that the narrator was scheduled to visit for dinner, situated along a route that includes the city of Kholinar and the fortress of Urithiru."
+    },
+    {
+        "entity": "tivbet",
+        "summary": "Tivbet is a person whom the narrator insists on visiting in Kholinar before traveling to Veden City, despite the growing unreasonableness of tariffs through Urithiru and the Radiants showing their true nature."
+    },
+    {
+        "entity": "radiants",
+        "summary": "The Radiants are a group of individuals whose true nature has been revealed, distinct from the home of Urithiru which some mistakenly believe to be their birthplace. They are subjects of discussion regarding ideals and stories, with characters questioning why men must rely on dreams and fabrications for inspiration rather than embodying such traits."
+    },
+    {
+        "entity": "terxim",
+        "summary": "Terxim is an individual whose autobiography was once associated with the Palanaeum, though only a single page of his account remains available."
+    },
+    {
+        "entity": "sea of spears",
+        "summary": "The Sea of Spears is a shallow inland sea located north and west of Alethkar, characterized by broken fingers of rock that jut above the water's surface."
+    },
+    {
+        "entity": "tanavast",
+        "summary": "Tanavast is a location referenced in the phrase 'Child of Tanavast,' which appears to be a title or lineage associated with the character Kaladin."
+    },
+    {
+        "entity": "Babatharnam",
+        "summary": "Babatharnam is a land known for its peculiar trees that lie down when a highstorm approaches and its inhabitants, the Babath, who have distinctive vein patterns on their skin. The region is currently experiencing unrest and is considered dangerous to visit due to high rates of assassination, exile, and death on the battlefield."
+    },
+    {
+        "entity": "babab",
+        "summary": "Babab is a name mentioned by Moash in a conversation, though the specific identity or nature of Babab is not defined within the provided text."
+    },
+    {
+        "entity": "babath",
+        "summary": "Babath is a location where a unique system of rule exists, granting office to the elderly and designating the oldest ruler as the Most Ancient."
+    },
+    {
+        "entity": "worldsinger",
+        "summary": "A title used to describe individuals who visit various places around the land and tell others of what they have seen, a role that Rock suggests is the correct name for the character Kaladin."
+    },
+    {
+        "entity": "delp",
+        "summary": "Delp is a member of Kaladin's bridge crew who was wounded in the neck by an arrow during a run, leaving the team with only twenty-eight bridge-capable members."
+    },
+    {
+        "entity": "parshman",
+        "summary": "A term used by Kaladin to address one of the bridgemen, indicating that the group consists of soldiers from a specific faction rather than being a single individual."
+    },
+    {
+        "entity": "bridgeboy",
+        "summary": "A lordling character who appears to be only a few years older than Kaladin."
+    },
+    {
+        "entity": "reral makoram",
+        "summary": "Reral Makoram is a Brightlord who commands the Sixth Battalion and is contacted by a Shardbearer to inform him that Adolin Kholin cannot attend a scheduled meeting."
+    },
+    {
+        "entity": "sixth battalion",
+        "summary": "The Sixth Battalion is a military unit commanded by Brightlord Reral Makoram, to whom Kaladin is instructed to deliver a message regarding Highprince Adolin Kholin's absence from a scheduled meeting."
+    },
+    {
+        "entity": "adolin kholin",
+        "summary": "Adolin Kholin is a Shardbearer who sends a message to Kaladin stating that he will not attend a scheduled meeting, instructing Kaladin to inform Brightlord Reral Makoram and arrange a new time."
+    },
+    {
+        "entity": "merem",
+        "summary": "Merem is a concept or value associated with the burgundy and dark green banner of Amaram's standard, paired with khakh to represent honor and determination."
+    },
+    {
+        "entity": "khakh",
+        "summary": "Khakh is a soldier serving under Brightlord Amaram, whose name is paired with Merem on a burgundy and dark green banner featuring a white-spine glyphpair with upraised tusks."
+    },
+    {
+        "entity": "nalem",
+        "summary": "Nalem is a sergeant who serves under the squadleader Gare, accompanying him alongside another sergeant named Korabet."
+    },
+    {
+        "entity": "korabet",
+        "summary": "Korabet is one of the two sergeants who follow the squadleader Gare."
+    },
+    {
+        "entity": "galan",
+        "summary": "Galan is a character who identifies a new recruit named Cenn to Kaladin, who has just joined the group the day before."
+    },
+    {
+        "entity": "nightwatcher",
+        "summary": "The Nightwatcher is an enigmatic force that appears to toy with the enemy, occasionally setting them as allies against Amaram's troops or turning them against one another in a forbidden game of chance. The entity is also a source of visions that may originate from it, the Voidbringers, or something else entirely, leaving observers unsure of whether to trust them."
+    },
+    {
+        "entity": "Ven",
+        "summary": "Ven is the chief of the surgeons, a tall man with a bulbous nose who oversees the medical pavilion and accepts bribes to prioritize certain soldiers for treatment."
+    },
+    {
+        "entity": "larn",
+        "summary": "Larn is a character who fought alongside Kaladin and reacted with surprise when Kaladin broke formation to dodge an enemy attack."
+    },
+    {
+        "entity": "ko-rater",
+        "summary": "Ko-rater is a person who is ordered by Kaladin to return with the boy, alongside Cyn, while Dallet holds the position against Amaram's advancing line."
+    },
+    {
+        "entity": "toorim",
+        "summary": "Toorim is a short man who serves as a subsquad member under Kaladin, having been rescued from another squad by him. He covertly searches for spheres during a battle and reports to Kaladin that the fallen lighteyes either did not bring any spheres or has them hidden under his breastplate."
+    },
+    {
+        "entity": "norby",
+        "summary": "Norby is the captainlord of the group Kaladin is serving with, whom Kaladin intends to summon to verify their kill."
+    },
+    {
+        "entity": "Lyndel",
+        "summary": "Lyndel is a character who was trampled by the Shardbearer after Cyn was cut down, resulting in her face being smashed in."
+    },
+    {
+        "entity": "raksha",
+        "summary": "Raksha is a member of Kaladin's squad who is killed by the Shardbearer alongside Navar and four others, leaving only four survivors."
+    },
+    {
+        "entity": "hab",
+        "summary": "Hab is a soldier serving in Kaladin's squad who survives an initial attack only to be killed by lighteyed officers alongside his comrades Alabet, Reesh, and Coreb."
+    },
+    {
+        "entity": "reesh",
+        "summary": "Reesh is a member of Kaladin's squad who is among the four survivors present when lighteyed officers enter, only to be cut down first during the confrontation."
+    },
+    {
+        "entity": "alabet",
+        "summary": "Alabet is a member of Kaladin's squad who, along with Hab, Reesh, and Coreb, is killed by lighteyed officers while attempting to defend himself with a knife."
+    },
+    {
+        "entity": "Coreb",
+        "summary": "Coreb is a character who addresses Kaladin as a Shardbearer and offers him an item, which Kaladin subsequently gives back to Coreb."
+    },
+    {
+        "entity": "warcamp",
+        "summary": "A military encampment where thousands of soldiers line up, including squads led by figures such as Cenn and Kaladin."
+    },
+    {
+        "entity": "ysperist",
+        "summary": "An ideological group mentioned alongside heretics, Vorins, and Maakians as being equally closed-minded to Jasnah, who argues that true wisdom requires acknowledging the virtue in adversaries regardless of their affiliation."
+    },
+    {
+        "entity": "mungam",
+        "summary": "Mungam is an individual referred to by Shallan as a 'tyrant' who is currently being argued with by Kabsal in the presence of a nurse."
+    },
+    {
+        "entity": "allahn",
+        "summary": "Allahn is the author of a ketek poem that is frequently quoted in reference to Urithiru, though some mistakenly believe the poem indicates the Radiants were born there."
+    },
+    {
+        "entity": "groundspren",
+        "summary": "A type of spirit that does not pull Syl downward like other spirits, allowing her to walk with her hands clasped behind her back."
+    },
+    {
+        "entity": "extes",
+        "summary": "Extes is a man who was tortured daily by having his arms torn off after sacrificing his son to the Voidbringers in exchange for knowledge of his death date."
+    },
+    {
+        "entity": "Rianal",
+        "summary": "Rianal is a distant western location from which the bridgeman Drehy originates, as indicated by his faint accent."
+    },
+    {
+        "entity": "varth",
+        "summary": "Varth is a soldier and squad leader who commands a group of men, including Kaladin, and is the target of Kaladin's desire for retribution."
+    },
+    {
+        "entity": "stormblessed",
+        "summary": "A title given to Kaladin by his men, referring to a past version of himself who possessed confidence and strength, which he fears he may no longer be able to reclaim."
+    },
+    {
+        "entity": "Lanacin",
+        "summary": "Lanacin the Surefooted is a person mentioned by the narrator as an individual who killed a Shardbearer, serving as a comparison to Evod Markmaker regarding the narrator's own achievement of killing one."
+    },
+    {
+        "entity": "evod markmaker",
+        "summary": "Evod Markmaker is a Shardbearer mentioned by the narrator as one of the few individuals who has killed a Shardbearer, alongside Lanacin the Surefooted."
+    },
+    {
+        "entity": "Restares",
+        "summary": "Restares is a person whose name is invoked by Amaram as the correct choice for a difficult decision regarding the Shards, representing a course of action deemed necessary for the good of Alethkar."
+    },
+    {
+        "entity": "baxil",
+        "summary": "Baxil is a character who serves as a companion to Av, displaying nervousness as he moves through a lavish palace corridor with a bag of tools. He is identified as being of the Emuli, a group characterized by dark skin and hair."
+    },
+    {
+        "entity": "emuli",
+        "summary": "Emuli is a term used to describe a person with dark skin and hair, specifically referring to Av, who is contrasted with the mistress who is not Emuli despite sharing similar physical traits."
+    },
+    {
+        "entity": "makabaki",
+        "summary": "Makabaki is a term used to describe a person from southwestern Roshar, characterized by dark skin and black hair, as exemplified by the bridgeman Sigzil. The text also notes that a mysterious mistress in the hallway possessed features that were not quite Makabaki, despite having dark skin and long black hair."
+    },
+    {
+        "entity": "Ashno",
+        "summary": "Ashno of Sages is a wealthy and holy man residing in Emul, who owns hundreds of servants and lives in a palace with a new guest wing."
+    },
+    {
+        "entity": "sages",
+        "summary": "Sages is the name of a wealthy and holy man in the city of Emul who owns a palace with hundreds of servants."
+    },
+    {
+        "entity": "Emul",
+        "summary": "Emul is the kingdom containing the ancient capital city of Sesemalex Dar, which is said to have been named by Jezrien. The city is the home of Ashno of Sages, one of the richest and holiest men in the kingdom, who employs hundreds of servants."
+    },
+    {
+        "entity": "hallowed hall",
+        "summary": "The Hallowed Hall is a location within a lavish palace where wealthy individuals place images of their Kadasix for reverence, featuring artwork such as a gold leaf painting of Epan, Lady of Dreams."
+    },
+    {
+        "entity": "kadasix",
+        "summary": "Kadasix are images or portraits placed in the Hallowed Hall by wealthy individuals for reverence, as depicted in paintings such as the one showing Epan, Lady of Dreams."
+    },
+    {
+        "entity": "epan",
+        "summary": "Epan is the subject of a painting depicting the Lady of Dreams, displayed in the Hallowed Hall as an image of reverence for a wealthy man's Kadasix."
+    },
+    {
+        "entity": "Geranid",
+        "summary": "Geranid is a woman who works on equations and studies spren in a small stone room on a tiny Reshi island. She is accompanied by Ashir, who conducts experiments involving spices and a rare Shin fruit on a fabrial hotplate."
+    },
+    {
+        "entity": "Physical Realm",
+        "summary": "The Physical Realm is the state of existence where the body must be fed, distinct from the separate state where the spirit resides."
+    },
+    {
+        "entity": "shadesmar",
+        "summary": "Shadesmar is a location that exists within the Cognitive Realm, where visitors can potentially eat food that corresponds to what the realm sees itself as being. It is a place of significant danger, as evidenced by the peril of visiting it with only a single dim sphere."
+    },
+    {
+        "entity": "Gom",
+        "summary": "Gom is a character who brought a Shin vegetable to Ashir, which Ashir found fascinating as it caramelized. Ashir notes that Gom's contribution was significant enough that he is pleased to have received it."
+    },
+    {
+        "entity": "Reshi Sea",
+        "summary": "A darkening, glassy expanse of water that is not as shallow as the Purelake, remains quite warm most of the time, and is dotted with tropical islands and occasional greatshell monsters."
+    },
+    {
+        "entity": "vevanev",
+        "summary": "Vevanev is a date marking the year 1173 and the time 107 seconds before a subject's death, recorded in the context of an out-of-work Veden sailor."
+    },
+    {
+        "entity": "leef",
+        "summary": "Leef is a character who was dozing and was addressed by a tall, red-haired man with incredulity."
+    },
+    {
+        "entity": "feverstone",
+        "summary": "Feverstone is the name of a red-rock fortification located within a natural rift, featuring blocky buildings and square raincatchers capable of withstanding a siege."
+    },
+    {
+        "entity": "order of the stonewards",
+        "summary": "The Order of the Stonewards is a group of individuals who are currently on foot, accompanied by a large number of Windrunners."
+    },
+    {
+        "entity": "mashala",
+        "summary": "Mashala is a character addressed by Adolin and Renarin, whom Adolin refers to as his favored aunt and who is formally addressed as such by Renarin."
+    },
+    {
+        "entity": "vevahach",
+        "summary": "Vevahach is a prostitute who died on the 11th of 1173, eight seconds before the date was recorded."
+    },
+    {
+        "entity": "painspren",
+        "summary": "A creature that crawls around injured individuals, appearing alongside Kaladin and the members of Bridge Four as they look down on a wounded man from Eight."
+    },
+    {
+        "entity": "gibletish",
+        "summary": "Gibletish is a name suggested by a speaker for a Dysian Aimian that would be constructed by Dalinar from the emotional and physical fragments of a man."
+    },
+    {
+        "entity": "ialai",
+        "summary": "Ialai is a curvaceous woman who reportedly dyed her hair, a trait indicating foreign blood in her family's past, as Alethi hair is said to always breed true."
+    },
+    {
+        "entity": "au-nak",
+        "summary": "Au-nak is a character who speaks with an airy accent and argues that money is the true driver behind every war, while religion serves only as an excuse or justification."
+    },
+    {
+        "entity": "nak-ali",
+        "summary": "Nak-ali is a character addressed with the high form of Au-nak's name by Hatham, who distinguishes between an excuse and a justification in their conversation."
+    },
+    {
+        "entity": "Sesemalex Dar",
+        "summary": "Sesemalex Dar is the capital city of the kingdom of Emul, described as an ancient and spectacular trade city featuring rifts cut into the stone, which is the subject of a war between the Emuli and the Tukari."
+    },
+    {
+        "entity": "dawncities",
+        "summary": "The Dawncities are a group of cities whose origins are traced back to the Dawnsingers, featuring unique stone compositions that allow water to drain. They are a subject of study for Hatham's wife and a topic of popular discussion among the lighteyes."
+    },
+    {
+        "entity": "Tezim",
+        "summary": "Tezim is the god-priest who leads the Tukari, a faction that believes the city's pattern is their ancestral homeland gifted by the Heralds."
+    },
+    {
+        "entity": "Order of Talenelat",
+        "summary": "The Order of Talenelat is a devotary for the lesser people, a religious group within the context of the provided text."
+    },
+    {
+        "entity": "brightlord hatham",
+        "summary": "Brightlord Hatham is a highprince who instructs an ardent to insult Au-nak in order to make the foreigner believe he is shamed, thereby preventing suspicion over the quick agreement to Au-nak's demands. He is one of three highprinces, alongside Thanadal and Vamah, who are behind on payments, while only Highprince Sadeas has paid ahead."
+    },
+    {
+        "entity": "cobalt guardsmen",
+        "summary": "A group of elite lighteyed officers who serve as personal bodyguards to Highprince Dalinar and Highprince Adolin, stepping up behind them during battle and maintaining a safe distance while their commanders engage the enemy."
+    },
+    {
+        "entity": "Vengeance Pact",
+        "summary": "A group or alliance mentioned by Highprince Sadeas, which Dalinar is considering abandoning."
+    },
+    {
+        "entity": "palahevan",
+        "summary": "Palahevan is a beggar of some renown, known for his elegant songs."
+    },
+    {
+        "entity": "brightking alazansi",
+        "summary": "Brightking Alazansi is the ruler of the fleet consisting of a hundred ships, as referenced by the character Leyten."
+    },
+    {
+        "entity": "Jezrien",
+        "summary": "Jezrien is the deity worshipped by the people of Sesemalex Dar, the capital of the kingdom of Emul, who regard him as their only god rather than a figure from the Vorin religion. The city and the kingdom are said to have been named by Jezrien himself."
+    },
+    {
+        "entity": "jezerezeh'elin",
+        "summary": "Jezerezeh'elin is an alias for the Stormfather, who served as the king of the Heralds and is known for his mastery over storms, water, and life."
+    },
+    {
+        "entity": "nalma",
+        "summary": "Nalma is a fellow slave who was lost by the protagonist during a previous escape attempt when the group was caught by their master's hunters."
+    },
+    {
+        "entity": "palahakev",
+        "summary": "Palahakev is the name of the date recorded on a document or inscription, as indicated by the phrase 'Dated Palahakev, 1173'. The provided text does not identify it as a person, faction, or object, but rather as a temporal marker for an event involving a Thaylen sailor."
+    },
+    {
+        "entity": "arik",
+        "summary": "Arik is a member of the bridge crew whose death, alongside Maps's, reduced the group's numbers to twenty-six, causing a noticeable heaviness and difficulty in keeping up with other crews."
+    },
+    {
+        "entity": "derethil",
+        "summary": "Derethil was a powerful king during the shadowdays who commanded thousands of soldiers and fought the Voidbringers during the days of the Heralds and Radiants. After finding peace uncontenting, he commissioned a majestic ship intended to sail the seas during a highstorm."
+    },
+    {
+        "entity": "wandersail",
+        "summary": "The Wandersail is a ship that was nearly destroyed in a crash but survived with its crew, including Derethil and Nafti, who later escaped to a ring of islands surrounding an enormous whirlpool."
+    },
+    {
+        "entity": "wander-sail",
+        "summary": "The Wander-sail is a vessel named by Derethil and crewed by the bravest sailors, which set out into the ocean to seek the origin of the Voidbringers on a day when a highstorm brewed."
+    },
+    {
+        "entity": "great abyss",
+        "summary": "The Great Abyss is a faction of people referred to as Uvara, who are characterized by their astonishing cruelty and a strict adherence to the will of their emperor, who will not suffer failure."
+    },
+    {
+        "entity": "uvara",
+        "summary": "The Uvara are a group of people living on an island who, upon seeing a dead body, descend into chaos by burning homes and rioting. They possess shipyards where a vessel named the Wandersail is being repaired."
+    },
+    {
+        "entity": "nafti",
+        "summary": "Nafti is a guide and caretaker who joins the crew of the Wandersail after begging to accompany Derethil and his men during their escape from the Uvara islands."
+    },
+    {
+        "entity": "shephir",
+        "summary": "Shephir is the Midnight Mother, a terrifying figure who gives birth to abominations with an essence described as dark, terrible, and consuming. She is present and watching the narrator die."
+    },
+    {
+        "entity": "shashabev",
+        "summary": "Shashabev is a dark-skinned dock-worker in his forties and father of three who bears three brands on his forehead, including one labeled 'Shash' that marks him as dangerous."
+    },
+    {
+        "entity": "outer market",
+        "summary": "The Outer Market is a disorganized collection of ramshackle stone buildings located near the king's palace and outside the warcamps, populated by an eclectic mix of people including many Thaylen merchants."
+    },
+    {
+        "entity": "jakamav",
+        "summary": "Jakamav is a sturdy lighteyes of the third dahn who serves as an accompaniment for Inkima and expresses a shared dislike for being wrong."
+    },
+    {
+        "entity": "eshava",
+        "summary": "Eshava is a lighteye from Highprince Aladar's camp who accompanies Toral and is present in House Kholin's encampment, where she expresses dissatisfaction with Highprince Sadeas's restrictions."
+    },
+    {
+        "entity": "Inkima",
+        "summary": "Inkima is a character who laughs at Jakamav's comments and giggles when he whispers to her, while a serving maid brings her wine."
+    },
+    {
+        "entity": "brightlord resi",
+        "summary": "Brightlord Resi is a noble addressed by Danlan in a conversation regarding a potential response to vocal provocations from Thanadal."
+    },
+    {
+        "entity": "bajerden",
+        "summary": "Bajerden is an alias for the holy man Nohadon, whose real name is unknown and was likely lost in time. He is a historical figure who received a holy name from the Church before it was disbanded."
+    },
+    {
+        "entity": "Granite Kingdom",
+        "summary": "Natanatan, also known as the Granite Kingdom, is a legendary region located in the East of Roshar characterized by windswept plains, overgrown forests, and feral highstorms that rule supreme."
+    },
+    {
+        "entity": "resi",
+        "summary": "Resi is the only full Shardbearer in Highprince Thanadal's army and the holder of Resi's Shards, a title traditionally held by the Royal Defender in Thanadal's princedom. He is a combatant who faces Adolin in a duel where the objective is to shatter a section of the opponent's Shardplate."
+    },
+    {
+        "entity": "istow",
+        "summary": "Lady Istow serves as the highjudge who oversees a combat bout between Resi and Adolin, calling for the combatants to summon their Blades."
+    },
+    {
+        "entity": "stonestance",
+        "summary": "Stonestance is a specific fighting stance used by Resi that focuses on delivering maximum momentum and strength behind each strike, relying heavily on parrying postures."
+    },
+    {
+        "entity": "blade and plate",
+        "summary": "The blade and plate is a set of ceremonial armor and a sword traditionally lent to highprinces or the king, representing a strong tradition within the kingdom that even former rulers like Gavilar respected despite private complaints."
+    },
+    {
+        "entity": "betabanan",
+        "summary": "Betabanan is the name of a specific date used in the calendar system of the lighteyed people, recorded as the date of a five-year-old child's death in 1173."
+    },
+    {
+        "entity": "chasmfiend",
+        "summary": "Chasmfiend is a specific term used by Kaladin to address a soldier, though the provided text does not define the nature of the entity or confirm if it is a person, object, or creature."
+    },
+    {
+        "entity": "betabanes",
+        "summary": "Betabanes is a date used to record events, specifically noted in a document dated 1173."
+    },
+    {
+        "entity": "Longshadow",
+        "summary": "Longshadow is the creator of a specific type of early model device that Navani was refining. Navani suggests these creations have potential for use in battlefields to dull pain or assist surgeons."
+    },
+    {
+        "entity": "karm",
+        "summary": "Karm is a person addressed by a regal man who discusses unconventional thoughts regarding their abilities and divine election."
+    },
+    {
+        "entity": "surgebinders",
+        "summary": "Surgebinders are a specific type of fabrial, a magical device, that are distinct from the bridge crews used by Highprince Dalinar's force."
+    },
+    {
+        "entity": "tarma",
+        "summary": "Tarma is a location that has been devastated by the Desolations, with its people having fallen during the eleven years of war."
+    },
+    {
+        "entity": "eiliz",
+        "summary": "Eiliz is a kingdom that has been devastated by the Desolations, with its survival uncertain alongside Tarma due to the high number of fallen people."
+    },
+    {
+        "entity": "alakavish",
+        "summary": "Alakavish is a figure blamed by others for bringing the group to war before the Desolation, though he is described as merely a symptom of a greater disease rather than the sole cause of their suffering."
+    },
+    {
+        "entity": "Corvana",
+        "summary": "Corvana is the title of a volume written by an author named Corvana, which Navani retrieves from a shelf and examines on a writing desk."
+    },
+    {
+        "entity": "silent mount",
+        "summary": "The Silent Mount is a location in Jah Keved where the Vanrial, an order of artists, reside and sing ancient songs believed to be from the Dawnchant."
+    },
+    {
+        "entity": "dawnchant",
+        "summary": "The Dawnchant is an ancient script and collection of songs written by the Heralds, containing words that have been preserved by the Vanrial order of artists on the Silent Mount in Jah Keved, though their original meanings have been lost to time."
+    },
+    {
+        "entity": "Kakanev",
+        "summary": "Kakanev is the name of a city located in the Stormlight Archive universe, as indicated by the date 'Dated Kakanev, 1173' which marks a specific time and place before the death of a city guards-man."
+    },
+    {
+        "entity": "desolations",
+        "summary": "The Desolations are a mysterious subject of inquiry for Dalinar and Renarin, regarding their connection to the Almighty and the Knights Radiant, though the specific nature of this group remains unproven in the provided text."
+    },
+    {
+        "entity": "parasaphi",
+        "summary": "Parasaphi is a historical figure mentioned in a myth alongside Nadris, who is credited with searching for seed-stones. She is associated with a people whose existence was wiped out by the Desolations."
+    },
+    {
+        "entity": "Nadris",
+        "summary": "Nadris is a historical figure mentioned in the myth of Parasaphi and Nadris, who died on his deathbed after receiving stones touched by the Heralds. Navani harvested his seed to combine with these stones, resulting in the hatching of ten children used to found the new nation of Marnah."
+    },
+    {
+        "entity": "Dara",
+        "summary": "Dara is a mythical mountain range that Navani climbed to find stones touched by the Heralds, which she used to hatch ten children and found the nation of Marnah."
+    },
+    {
+        "entity": "marnah",
+        "summary": "Marnah is the name of a nation founded by Navani, who used ten children hatched from stones touched by the Heralds to repopulate her fallen people after harvesting the seed of Nadris."
+    },
+    {
+        "entity": "shin shardbearer",
+        "summary": "A Shin Shardbearer is an individual who wields a Shard and wears Shard-plate armor, capable of using specialized weapons like grandbows that require such power to operate. This specific Shin Shardbearer is noted for assassinating the king of Jah Keved while wearing white clothing."
+    },
+    {
+        "entity": "Avarak Matal",
+        "summary": "Avarak Matal is a man identified by Sadeas as looking familiar to Kaladin, though the provided text does not specify his role or relationship to the other characters."
+    },
+    {
+        "entity": "bridge eighteen",
+        "summary": "Bridge Eighteen is one of the twenty bridge crews mentioned in the text, standing alongside Bridge Seven to observe Kaladin and his team after Matal checks on the other crews."
+    },
+    {
+        "entity": "tarah",
+        "summary": "Tarah is a person whom the speaker considers a failure alongside others, specifically noting that she previously coaxed him out of his single-minded dedication."
+    },
+    {
+        "entity": "shshshsh",
+        "summary": "Shshshsh is a character who is described as being loved by everyone, causing Navani to feel only mild jealousy rather than hatred."
+    },
+    {
+        "entity": "black fisher",
+        "summary": "The Black Fisher is a divine entity invoked by the speaker to consume their sorrow and end their weeping."
+    },
+    {
+        "entity": "bridge six",
+        "summary": "Bridge six is a specific crossing point located on a staging plateau where soldiers, including Kaladin's squad, are ordered to cross by Matal."
+    },
+    {
+        "entity": "dalinar's plate",
+        "summary": "Dalinar's plate is a piece of armor that leaked Stormlight from dozens of small breaks, with light rising above it like steam from a cauldron and slowly diffusing."
+    },
+    {
+        "entity": "neshua kadal",
+        "summary": "A name shouted by groups of archers on a plateau, causing them to freeze and begin chanting a song in confusion."
+    },
+    {
+        "entity": "nelda",
+        "summary": "Nelda is a person listed among the individuals Kaladin fears will die in the immediate future."
+    },
+    {
+        "entity": "tashlin",
+        "summary": "Tashlin is a Brightlord who commands a military company, and his reported death triggers a warning to Brightlord Amaram regarding the weakening forces on the east side."
+    },
+    {
+        "entity": "sheler",
+        "summary": "Sheler is the name of a company of soldiers led by a Brightlord, who are holding their ground on the southeast side of the hill during the battle."
+    },
+    {
+        "entity": "shesh lerel",
+        "summary": "A banner displaying the glyphpair 'shesh lerel' that identifies Sheler's company, a military unit positioned on the southeast side of the hill."
+    },
+    {
+        "entity": "hav",
+        "summary": "Havar is a character who serves as the commander of the rear guard, a role confirmed by a man who calls out to him."
+    },
+    {
+        "entity": "nacomb gaval",
+        "summary": "Nacomb Gaval is a character who appears to be younger than Kaladin."
+    },
+    {
+        "entity": "malan",
+        "summary": "Malan is the title held by a high-ranking military leader who commands soldiers and is addressed as 'Captainlord' by Adolin in a desperate plea to rescue his father."
+    },
+    {
+        "entity": "tanatanev",
+        "summary": "Tanatanev is a character described as a dark-eyed mother of four in her sixty-second year who is facing death at 18 seconds before the event of 1173."
+    },
+    {
+        "entity": "brightness navani",
+        "summary": "Navani is the widow of King Gavilar and the mother of Elhokar and Jasnah, who led research to develop grandbows using fabrial science."
+    },
+    {
+        "entity": "makal",
+        "summary": "Makal is an attendant who carries a satchel containing Navani's possessions, including her burn ink and brushpen."
+    },
+    {
+        "entity": "elthal",
+        "summary": "Elthal is a distinguished, limber officer with a thin mustache who survived a disaster with his arm in a sling. He served as a high-ranking commander who held the gap alongside Dalinar during the final part of a fight and subsequently followed orders to tend to wounded horses."
+    },
+    {
+        "entity": "kammar",
+        "summary": "A specialized discipline or training method that makes a character dangerous even without a Shardblade, allowing them to inflict severe injury on guards."
+    },
+    {
+        "entity": "vallano",
+        "summary": "Vallano is the surname of Szeth, a man who killed Taravangian's friends and whom the king claims to share a heart with despite their violent differences."
+    },
+    {
+        "entity": "lifebrother",
+        "summary": "The Lifebrother is a figure referenced by a speaker who claims to speak the listener's language and suggests the possibility that this entity sent the listener to them."
+    },
+    {
+        "entity": "szeth-son-son",
+        "summary": "Szeth-son-son-Vallano is a man addressed by Taravangian as a fellow sinner who personally holds knives and releases blood, distinguishing him from those sent to do bloody work for others."
+    },
+    {
+        "entity": "true desolation",
+        "summary": "The True Desolation is a feared event or force that the figure believes will happen, which he states is what 'he' wants."
+    },
+    {
+        "entity": "ghostbloods",
+        "summary": "The Ghostbloods are a specific group searching for secrets, known to have assassinated the speaker's target and to have a member named Kabsal, who bore their symbol tattooed on his arm."
+    },
+    {
+        "entity": "night of sorrows",
+        "summary": "The Night of Sorrows is a cataclysmic event associated with the Everstorm and the True Desolation, described as a time when the sun approaches the horizon and the world faces a final threat."
+    },
+    {
+        "entity": "talenel'elin",
+        "summary": "Talenel'elin, also known as Stonesinew, is a Herald of the Almighty who believes he has failed as the Desolation has arrived."
+    },
+    {
+        "entity": "stonesinew",
+        "summary": "Stonesinew is the name assumed by the man who identifies himself as Talenel'Elin, Herald of the Almighty, who believes he has failed to stop the Desolation."
+    }
+]
