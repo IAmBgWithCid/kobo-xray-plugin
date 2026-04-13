@@ -13,7 +13,7 @@ def run_pipeline(epub_path):
     print("========================================\n")
     start_time = time.time()
 
-    # Your fix: Absolute pathing derived directly from the target EPUB
+    #  Absolute pathing derived directly from the target EPUB
     base_path, ext = os.path.splitext(epub_path)
     json_output_path = base_path + "_XRAY.json"
     final_epub_output = base_path + "_XRAY" + ext

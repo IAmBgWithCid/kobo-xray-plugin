@@ -3,7 +3,7 @@ from qt.core import QMessageBox, QProcess, QFileDialog, QMenu, QDialog, QVBoxLay
 from calibre.utils.config import JSONConfig
 import os
 
-# Create a persistent preferences file specifically for your plugin
+
 prefs = JSONConfig('plugins/koboxray')
 
 # --- THE LIVE PROGRESS TERMINAL ---
