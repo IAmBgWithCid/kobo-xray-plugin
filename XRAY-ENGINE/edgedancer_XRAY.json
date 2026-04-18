@@ -1,7 +1,7 @@
 [
     {
         "entity": "bronze palace",
-        "summary": "The Bronze Palace is a significant location within the city, serving as a target for a proposed robbery by Huqin and Maxin while the vizierate is occupied with selecting a new Prime Aqasix."
+        "summary": "The Bronze Palace is a significant location within the city, serving as a target for a proposed robbery by Maxin and Huqin while the vizierate is occupied with selecting a new Prime Aqasix."
     },
     {
         "entity": "huqin",
@@ -9,31 +9,31 @@
     },
     {
         "entity": "Reshi",
-        "summary": "Reshi is a person from the islands up north, distinguished by her straight black hair worn down to her waist, tan skin, and rounded features, which sets her apart from the dark-skinned Azish people."
+        "summary": "Reshi is a person from the northern islands who stands out among the dark-skinned Azish due to her tan skin, rounded features, and long black hair. She is a distinct individual whose identity is immediately recognized by others in the region."
     },
     {
         "entity": "aqasix",
         "summary": "Aqasix is a title for the ruler of Azir, held by the character Gawx who is addressed as Prime Aqasix."
     },
     {
-        "entity": "maxin",
+        "entity": "Maxin",
         "summary": "Maxin is a thief dressed in fine clothing who plans to rob the Bronze Palace alongside Tigzikk while the important people speculate about the new Prime Aqasix."
     },
     {
         "entity": "tigzikk",
-        "summary": "Tigzikk is an aging, learned member of a group who is known for speaking three languages and wearing fancy clothing, distinguishing him from the others who wear black. He serves as a cautious advisor who warns against the dangers of moving through the palace due to heavy security and suspicion."
+        "summary": "Tigzikk is an aging, learned member of a group who is known for speaking three languages and wearing fancy clothing, though he is only referred to as 'Tig' by Lift because his full name is difficult to pronounce."
     },
     {
         "entity": "ello",
-        "summary": "The text provided does not contain sufficient information to identify 'ello' as a person, place, faction, or object, as it appears only as a greeting (''Ello') directed at an individual referred to by the alias 'Voidbringer'."
+        "summary": "The text provided does not contain enough information to identify 'ello' as a person, place, faction, or object, as it appears to be a greeting rather than a defined entity within the given context."
     },
     {
         "entity": "voidbringer",
-        "summary": "Voidbringer is a living entity referred to by Lift as her pet, whom she has captured and forbids from stealing souls. The entity is addressed by Lift and Huqin during a nighttime infiltration of a palace, where it is warned against speaking or being exorcised."
+        "summary": "Voidbringer is a living entity referred to by Lift as her pet, whom she has captured and forbids from stealing souls. The entity is addressed by Lift and Huqin during a meeting at a palace, where it is warned against speaking or risking exorcism."
     },
     {
         "entity": "wyndle",
-        "summary": "Wyndle is a spren who identifies as part of a proud and noble group, though he claims people cannot see him. He interacts with Lift by leaving a trail of vines that harden into solid crystal before crumbling to dust. Wyndle attempts to explain his nature to Lift, distinguishing himself from the other entities present in the scene."
+        "summary": "Wyndle is a spren who identifies as part of a proud and noble group, though he claims people cannot see him. He interacts with Lift by leaving a trail of vines that harden into crystal before crumbling to dust. Wyndle attempts to explain his nature to Lift, distinguishing himself from the other entities present in the scene."
     },
     {
         "entity": "Azir",
@@ -41,11 +41,11 @@
     },
     {
         "entity": "shardblade",
-        "summary": "A dangerous weapon carried by figures in white and their minions, capable of chopping off heads and held aloft during confrontations."
+        "summary": "A dangerous weapon carried by figures such as Darkness and his minions, capable of chopping off heads and used to block exits."
     },
     {
         "entity": "azimir",
-        "summary": "Azimir is a fortified location protected by thick glass windows from highstorms, situated in a region where characters travel from northern Tashikk and return to after playing in the fields."
+        "summary": "Azimir is a location situated in northern Tashikk, noted for having a window with thick glass that offers exceptional protection from highstorms, contrasting with the overgrown fields and vine-like trees found nearby."
     },
     {
         "entity": "Physical Realm",
@@ -53,27 +53,27 @@
     },
     {
         "entity": "starvin",
-        "summary": "Starvin is a descriptive term used to characterize Voidbringers and cremlings, indicating their inability to detect or respond to subtle hints or warnings."
+        "summary": "Starvin is a descriptive term used to characterize Voidbringers, a group of beings that Lift encounters in a foreign land, noting their inability to catch a hint and their association with strange cremlings."
     },
     {
         "entity": "voidbringers",
-        "summary": "The Voidbringers are a group of entities that are currently present and active, as indicated by the fact that they are 'back' and are described as 'starvin'.' They are known to be interested in deals and are associated with a Herald who claims their return."
+        "summary": "The Voidbringers are a group of entities that are currently present and active, as indicated by the statement that they are back despite claims to the contrary. They are described as being interested in deals and are associated with a Herald who confirms their return."
     },
     {
         "entity": "edgedancer",
-        "summary": "An Edgedancer is a specific designation or title given to an individual, as Wyndle suggests he will make the protagonist one and Darkness confirms the protagonist appears to be one."
+        "summary": "An Edgedancer is a specific designation or title bestowed upon an individual, as evidenced by Wyndle's statement that he will make an Edgedancer out of the subject and Darkness's observation that the subject appears to be one."
     },
     {
-        "entity": "Marabethia",
-        "summary": "Marabethia is a location situated half a continent away from the current setting, from which the protagonist believes she has escaped."
+        "entity": "marabethia",
+        "summary": "Marabethia is a location situated half a continent away from the current setting, from which the protagonist believes the man in black and silver has followed her."
     },
     {
         "entity": "Rall Elorim",
-        "summary": "Rall Elorim is the hometown where Lift grew up, a place she associates with the terror she felt during her childhood days."
+        "summary": "Rall Elorim is the place where Lift grew up, a location that triggers her terror and panic when she is forcibly removed from it."
     },
     {
         "entity": "gawx",
-        "summary": "Gawx is a character who accompanies the narrator into a closet to hide from passing servants and wine-bearer parshmen. He is described as someone whose presence makes the narrator feel less 'awesome' and who is prone to making noise that risks their concealment."
+        "summary": "Gawx is a character who accompanies the narrator on a stealth mission to hide inside a closet while servants pass by. He is described as someone whose presence makes the narrator feel less 'awesome' and more vulnerable to questions and rumors. Gawx is shown to be physically capable of scrambling into tight spaces and enduring the narrator's elbowing."
     },
     {
         "entity": "yaezir",
@@ -81,7 +81,7 @@
     },
     {
         "entity": "azish",
-        "summary": "Azish is a character described as being boring, who is present in a scene involving Gawx and Lift."
+        "summary": "Azish is a character described as being boring, who is present in the same scene as Gawx and Lift."
     },
     {
         "entity": "dalksi",
@@ -89,11 +89,11 @@
     },
     {
         "entity": "axikk",
-        "summary": "Axikk is a character who wrote an essay that was considered superior to another character's work."
+        "summary": "Axikk is a character who wrote an essay that is considered superior to another character's work."
     },
     {
         "entity": "Ashno",
-        "summary": "Ashno of Sages is one of the greatest Emuli Primes who suffered from a bad back."
+        "summary": "Ashno of Sages is one of the greatest Emuli Primes who suffers from a bad back."
     },
     {
         "entity": "sages",
@@ -105,39 +105,39 @@
     },
     {
         "entity": "kadasixes",
-        "summary": "Kadasixes is a character mentioned alongside Stars in a discussion about a puzzle involving the role of Prime."
+        "summary": "Kadasixes is a character mentioned alongside Stars in a discussion about the role of Prime, where a voice in charge presents the situation as a puzzle regarding who should hold the position when nobody wants it."
     },
     {
         "entity": "stars",
-        "summary": "Stars is a name given to one of two individuals, alongside Kadasixes, who are being considered for the position of Prime in a puzzle involving a group that does not want to be Prime."
+        "summary": "Stars is one of two individuals, alongside Kadasixes, who are presented as candidates for the position of Prime in a puzzle involving a choice between them."
     },
     {
         "entity": "scion ethid",
-        "summary": "Scion Ethid is a divine figure invoked by the group as a source of guidance and protection, with the characters hoping that Yaezir will show his will to choose the right person for their mission."
+        "summary": "Scion Ethid is a divine figure invoked by the group as a source of guidance and protection, with the characters hoping that Yaezir will show his will to choose the right person and spare them from death by the sword."
     },
     {
         "entity": "heralds",
-        "summary": "The Heralds are a group referenced by Darkness, who denies their involvement in a specific action, while other characters in the vicinity praise them as gods for providing grain."
+        "summary": "The Heralds are a group whose specific actions or nature are currently unknown, as the speaker Darkness denies they have performed the act in question and the provided text does not define their identity or role."
     },
     {
         "entity": "shardblades",
-        "summary": "Shardblades are dangerous weapons that can be requisitioned by officers of the law, as evidenced by a constable wielding one to execute individuals."
+        "summary": "Shardblades are weapons that can be requisitioned by officers of the law, representing a dangerous and significant asset within the setting."
     },
     {
         "entity": "tashikk",
-        "summary": "Tashikk is a strange, overgrown location in the greater Makabaki region situated a week's travel from Azimir, known for its polite, reserved locals and distinctive clothing."
+        "summary": "Tashikk is a strange, overgrown region in the greater Makabaki region located a week's travel from Azimir, known for its polite, reserved locals and distinctive clothing."
     },
     {
         "entity": "mie hab",
-        "summary": "The phrase 'mie hab' is a spoken utterance by a character, likely a child or someone speaking in a dialect, meaning 'I have' in the fictional language of the text."
+        "summary": "The phrase 'mie hab' is a spoken utterance by a character, likely a child or someone speaking a dialect, meaning 'I have' in the context of the sentence provided."
     },
     {
         "entity": "shars",
-        "summary": "Shars is a name spoken by Lift, though the context provided does not specify whether it refers to a person, place, faction, or object."
+        "summary": "Shars is a name addressed by the character Lift, though the provided context does not specify whether it refers to a person, place, faction, or object."
     },
     {
         "entity": "shadesmar",
-        "summary": "Shadesmar is a location where Wyndle cultivated the souls of chairs into crystals and planned an exhibition of sofas before being chosen for a duty."
+        "summary": "Shadesmar is a location where Wyndle collected and cultivated the souls of chairs into grand crystals. It is a place where Wyndle also planned an exhibition of sofas before being chosen for a specific duty."
     },
     {
         "entity": "winstels",
@@ -149,11 +149,11 @@
     },
     {
         "entity": "Yeddaw",
-        "summary": "Yeddaw is a city located in Tashikk, described as a sight that closely resembles the legendary Sesemalex Dar. It is noted for its inhabitants being overly polite, reserved, and wearing clothing that makes them difficult to read."
+        "summary": "Yeddaw is a city located in Tashikk, described as a sight comparable to Sesemalex Dar and noted for its inhabitants who are too polite, reserved, and wear clothing that makes them hard to read."
     },
     {
         "entity": "Sesemalex Dar",
-        "summary": "Sesemalex Dar is a location described as the closest a person could get to seeing Yeddaw, a city situated in the region of Tashikk."
+        "summary": "Sesemalex Dar is a location that serves as the closest possible alternative to visiting the city of Yeddaw, situated in a region that has functioned as a war zone for approximately a billion years."
     },
     {
         "entity": "imperial shardblades",
@@ -173,7 +173,7 @@
     },
     {
         "entity": "skybreaker",
-        "summary": "Skybreaker is a title used to refer to a specific assassin who attacked the protagonist in the palace and was nearly successful in murdering them. The term is also applied to the group of apprentices associated with this assassin."
+        "summary": "Skybreaker is a title used to refer to an assassin who attacked the protagonist in a palace and was also known as Darkness. The term is also applied to apprentices of this assassin."
     },
     {
         "entity": "tallew",
@@ -181,7 +181,7 @@
     },
     {
         "entity": "hauka",
-        "summary": "Hauka is a character who inspects a suspicious pile of grain from Azir, noting the lack of calluses on the farmer's hands and searching for contraband or hidden refugees before rolling up credentials and passing a guard post."
+        "summary": "Hauka is a character who inspects a suspicious pile of grain from Azir, questioning a farmer named Tallew and searching for contraband or refugees before proceeding past a guard post."
     },
     {
         "entity": "nissiqqan",
@@ -189,19 +189,19 @@
     },
     {
         "entity": "nun raylisi",
-        "summary": "Nun Raylisi is a figure described as the enemy of the characters' god, whose presence in the home lands is considered minimal due to the protection of Tashi."
+        "summary": "Nun Raylisi is a figure described as the enemy of the locals' god, whose presence is considered minimal in their home lands."
     },
     {
         "entity": "tashi",
-        "summary": "Tashi is a protective figure present in the home lands who is addressed by a smuggler and an officer, with the officer expressing frustration that Tashi was stepped on."
+        "summary": "Tashi is a protective figure in the home lands who is described as having storming shoulders and is invoked by a smuggler and an officer."
     },
     {
         "entity": "makabaki",
-        "summary": "Makabaki is a region located in the northern part of Tashikk, situated a little more than a week's travel from Azimir. It is home to a local guard force where officers can be certified by an Azimir vizier, and the area is inhabited by people with dark skin similar to that of the character Hauka."
+        "summary": "Makabaki is a region located in the northern part of Tashikk, situated more than a week's travel from Azimir, where the locals speak of a greater Makabaki region and note that a character's dark skin resembles that of a native Makabaki."
     },
     {
         "entity": "Emul",
-        "summary": "Emul is a nation engaged in a war with Tukar, where its fields are reportedly being raided by Tukari forces while its able-bodied men fight an invasion."
+        "summary": "Emul is a nation engaged in a war with Tukar, where its fields are raided by invaders while its able-bodied men fight an invasion."
     },
     {
         "entity": "tukar",
@@ -209,11 +209,11 @@
     },
     {
         "entity": "rez",
-        "summary": "Rez is a character who serves as a subordinate to Captain Hauka, tasked with managing immigration for an hour while Hauka takes a break. He is positioned near a table where a refugee child slides between his legs during a chaotic scene involving Hauka's men."
+        "summary": "Rez is a character who serves as a subordinate to Captain Hauka, tasked with managing immigration duties for an hour while Hauka takes a break."
     },
     {
-        "entity": "Bavland",
-        "summary": "Bavland is a location referenced in the text as a place where a woman was snatched up quickly, serving as a simile to describe the speed at which grain was distributed among the crowd."
+        "entity": "bavland",
+        "summary": "Bavland is a location referenced in the text as a place where a woman was snatched up quickly, used here as a simile to describe how fast the grain was taken."
     },
     {
         "entity": "alm",
@@ -221,15 +221,15 @@
     },
     {
         "entity": "desh",
-        "summary": "Desh is a rural location where inhabitants wear lighter-colored clothing, and it is noted as a place where the protagonist has rarely faced assassination attempts, alongside Alm."
+        "summary": "Desh is a rural location mentioned alongside Alm, noted for having few people who attempted to kill the protagonist. It is inhabited by people wearing lighter-colored clothing and is distinct from the mercenary groups of Tukari or Emuli."
     },
     {
         "entity": "Zawfix",
-        "summary": "Zawfix is a location known for containing shanties built inside old mines, a feature that distinguishes it from other places where such structures would be destroyed by highstorms."
+        "summary": "Zawfix is a location known for containing shanties built inside old mines, a distinct feature that contrasts with other places where such structures would be destroyed by highstorms."
     },
     {
         "entity": "purelake",
-        "summary": "A location described as a place where everything is situated up high because the ground is considered too nasty to touch."
+        "summary": "Purelake is a location described as a place where everything is elevated high above the ground, which is believed to be covered in a nasty cough that prevents anyone from touching it."
     },
     {
         "entity": "stormlight",
@@ -245,19 +245,19 @@
     },
     {
         "entity": "outsida",
-        "summary": "Outsida is a character referenced by Lift and a grimy little girl, who is associated with a light from the sky and is the subject of a question regarding whether she cares about something."
+        "summary": "Outsida is a character referenced by Lift and a grimy little girl, who is associated with a light from the sky and a group referred to as 'Lika the outsida'."
     },
     {
         "entity": "Lika",
-        "summary": "Lika is a character referred to as 'the outsida' by Lift, who is questioned regarding whether she requires light if given lunks for smalls."
+        "summary": "Lika is a character referred to as 'the outsida' by Lift, who is questioned regarding whether she requires light or lunks for smalls."
     },
     {
         "entity": "tashi's light orphanage",
-        "summary": "A corner building located in the immigrant quarter that provides food and shelter, run by a woman who is being monitored by a colleague of the captain."
+        "summary": "A corner building located at the intersection of two streets in the immigrant quarter, featuring a bright orange facade and a semi-circular seating area resembling a theater. It is run by a woman who is being monitored by a colleague of the captain's watch."
     },
     {
         "entity": "shiquas",
-        "summary": "Shiquas is a type of protective garment worn by officials and real people, characterized by a face portion that can be pulled down to reveal the wearer's face."
+        "summary": "Shiquas are protective garments worn by officials and real people, featuring a face portion that can be pulled down to reveal the wearer's face, as seen on an older man in the amphitheater."
     },
     {
         "entity": "tashikki",
@@ -265,11 +265,11 @@
     },
     {
         "entity": "tiqqa",
-        "summary": "Tiqqa is a young urchin who is the subject of a betting game among other children in a specific section of a busy market, where a character named Lift observes her being held in a small, broken cart."
+        "summary": "Tiqqa is an urchin who is the subject of a betting game among other children in a specific section of a busy market, where a character named Lift observes her attempting to escape."
     },
     {
         "entity": "shiqua",
-        "summary": "The provided text mentions 'Shiqua-wrapped Tashikkis' but does not explicitly define 'shiqua' as a standalone character, place, faction, or object, nor does it provide an alias or further context to determine its true nature."
+        "summary": "The provided text mentions 'Shiqua-wrapped Tashikkis' but does not explicitly define 'shiqua' as a distinct character, place, faction, or object, nor does it provide any aliases or further context to determine its nature."
     },
     {
         "entity": "skybreakers",
@@ -277,31 +277,31 @@
     },
     {
         "entity": "Tranquiline Halls",
-        "summary": "The Tranquiline Halls are a location where emerald treasures are kept, as evidenced by the discovery of three plates of pancakes beneath a metal covering in this area."
+        "summary": "The Tranquiline Halls are a location where emerald treasures are kept, as evidenced by the three plates of pancakes found there."
     },
     {
         "entity": "yeph",
-        "summary": "The text provided does not contain enough information to determine the nature of 'yeph' or provide a summary, as the entity appears to be a name spoken by a character named Lift without further context."
+        "summary": "The text provided does not contain sufficient information to identify the nature of 'yeph' or define what it is."
     },
     {
         "entity": "knights radiant",
-        "summary": "The Knights Radiant are an order of warriors who follow a specific code to achieve Honor, a tradition that the Skybreakers claim as their own way. The text suggests that the minds of men are fragile and emotions are mutable, making adherence to this chosen code the only path to Honor."
+        "summary": "The Knights Radiant are an order of warriors who follow a specific code to achieve Honor, a tradition that the Skybreakers claim as their own way. The text suggests that the Skybreakers are a distinct group within or related to this order, as the male initiate questions whether they should want the original Knights Radiant to return so they are not the only order left."
     },
     {
         "entity": "Ishar",
-        "summary": "Ishar is a figure referenced by Darkness as the source of a mission to protect Roshar, whose instructions are considered the greater law. He is described as someone who made the truth clear to Darkness and who has promised that the Voidbringers have not returned."
+        "summary": "Ishar is a figure referenced by Darkness as the source of a mission to protect Roshar, whose instructions are considered the greater law, and who is described as someone who does not lie regarding the status of the Voidbringers."
     },
     {
-        "entity": "Shattered Plains",
-        "summary": "A location where remnants of ancient Voidbringers are found, distinct from the current Voidbringers who are hiding among the people."
+        "entity": "shattered plains",
+        "summary": "The Shattered Plains are a location where remnants of ancient Voidbringers were observed, though Darkness claims the active Voidbringers are not currently present there."
     },
     {
         "entity": "nin-son-god",
-        "summary": "Nin-son-God is a title used by an assassin to address a mysterious figure described as a 'new storm' with 'red eyes,' whom the speaker claims is wrong about the situation."
+        "summary": "Nin-son-God is a title used by an assassin to address a mysterious figure described as 'the new storm' with 'red eyes,' whom the speaker claims is wrong about the situation."
     },
     {
         "entity": "szeth-son-neturo",
-        "summary": "Szeth-son-Neturo is a character who is questioned by Darkness regarding his doubts about the Voidbringers' return, with Darkness asserting that questioning is a sign of weakness and that he must choose a code to follow."
+        "summary": "Szeth-son-Neturo is a character who is questioned by Darkness regarding his doubts about the Voidbringers' return, with Darkness asserting that questioning is a sign of weakness and that Szeth must choose a code to follow."
     },
     {
         "entity": "surgebinder",
@@ -313,31 +313,31 @@
     },
     {
         "entity": "nin",
-        "summary": "Nin is a Herald who has procured an injunction from the prince forbidding the use of Surgebinding in the country, except for specifically authorized cases. He is also known by the aliases Nalan, Nakku, and Nale."
+        "summary": "Nin is a Herald of Nalan, also referred to as Nale or Nakku the Judge, who has procured an injunction from the prince forbidding the use of Surgebinding in the country."
     },
     {
-        "entity": "Nalan",
-        "summary": "Nalan is the Herald referred to by the alias Nin, a legendary figure whose existence is questioned by the characters Wyndle and Lift."
+        "entity": "nalan",
+        "summary": "Nalan is the Herald referred to by the alias Nin, a legendary figure whose presence among the current group causes Wyndle and Lift to express shock and fear."
     },
     {
         "entity": "mama",
-        "summary": "A maternal figure who advised Lift to travel and visit various places while she was young."
+        "summary": "A maternal figure referenced by Lift, who advised her to travel while young."
     },
     {
         "entity": "old magic",
-        "summary": "A form of magic that Lift sought out three years ago, which she has since grown taller than when she first encountered it."
+        "summary": "A form of magic that Lift sought out three years prior, which she has since grown taller than when she first encountered it."
     },
     {
         "entity": "Mik",
-        "summary": "Mik is a young boy who appears confused when asked if he and the protagonist are friends, and is later observed by a character named Lift alongside another individual named Yeddaw."
+        "summary": "Mik is a young boy who appears confused when asked if he and the protagonist are friends, and is later observed by a character named Lift along with another individual named Yeddaw."
     },
     {
         "entity": "wyndles",
-        "summary": "Wyndles is a person who serves as a self-proclaimed representative of the bronze city, with the text noting that the city itself resembles a collection of Wyndles."
+        "summary": "Wyndles is a person who serves as a self-proclaimed 'vine face' and is the namesake of a city where everyone writes notes, rules, and sells ideas."
     },
     {
         "entity": "whitehair",
-        "summary": "Whitehair is a nickname used to refer to a specific individual who is quoted as advising that one can be crass when discussing art, provided they remain poetic. The text suggests this person holds a view that allows for the display of naked ladies in a palace as an example of elegance."
+        "summary": "Whitehair is a nickname used to refer to a specific individual who is quoted as having spoken about the distinction between being crass and being poetic when discussing art."
     },
     {
         "entity": "dalky",
@@ -349,15 +349,15 @@
     },
     {
         "entity": "fat lips",
-        "summary": "Fat Lips is a servant in charge of a group, who dislikes being called by her nickname despite not actually having fat lips."
+        "summary": "Fat Lips is a servant who is in charge of a specific group, though she does not actually have fat lips and dislikes being referred to by that name."
     },
     {
         "entity": "awespren",
-        "summary": "Awespren is a supernatural entity that manifests as a ring of blue smoke surrounding the scribe Tashi. It appears in the home lands, a location where the need to conceal oneself from the enemy Nun Raylisi is minimal."
+        "summary": "Awespren is a magical phenomenon that manifests as a ring of blue smoke surrounding the scribe Tashi. It appears when Tashi is addressed as the 'God of Gods and Binder of the World'."
     },
     {
         "entity": "aqasix yanagawn",
-        "summary": "Prime Aqasix Yanagawn the First is the emperor of all Makabak who decrees that the young woman known as Lift be shown every courtesy and measure of respect."
+        "summary": "Prime Aqasix Yanagawn the First is the emperor of all Makabak who decrees that the young woman known as Lift is to be shown every courtesy and measure of respect."
     },
     {
         "entity": "Shinovar",
@@ -365,7 +365,7 @@
     },
     {
         "entity": "Iri",
-        "summary": "Iri is a location that serves as a contact point for intelligence regarding a strange new storm with red lightning blowing in from the west."
+        "summary": "Iri is a location where contacts have provided independent confirmation regarding the arrival of a strange new storm with red lightning blowing in from the west."
     },
     {
         "entity": "Ghenna",
@@ -373,15 +373,15 @@
     },
     {
         "entity": "pancake",
-        "summary": "Pancake is a nickname used by Ghenna to address the emperor, a term Ghenna admits sounds stupid when spoken aloud."
+        "summary": "Pancake is a nickname used by Ghenna to address the emperor, a term Ghenna admits sounds stupid."
     },
     {
         "entity": "vizier noura",
-        "summary": "Vizier Noura is a character who addresses Lift, telling her that she is now safe and no longer needs to live on the streets."
+        "summary": "Vizier Noura is a character who addresses the protagonist, Lift, offering her a new home and expressing mutual affection."
     },
     {
         "entity": "vorin",
-        "summary": "Vorin refers to a group of priests who preach that poverty is a result of individuals being too foolish to ask the Almighty for wealth, rather than a matter of luck."
+        "summary": "Vorin refers to a group of priests who preach that poverty is a result of being too dumb to ask the Almighty for wealth, rather than a matter of luck."
     },
     {
         "entity": "iriali",
@@ -389,7 +389,7 @@
     },
     {
         "entity": "bidlel",
-        "summary": "Bidlel is the leader of a team housed in room two-three-two who was hired by a woman for an undisclosed project. Ghenna confirms that Bidlel has already evacuated the building and locked the door."
+        "summary": "Bidlel is the leader of a team assigned to room two-three-two, who was hired two weeks ago for a secret project and has reportedly already evacuated the building."
     },
     {
         "entity": "yezier",
@@ -397,23 +397,23 @@
     },
     {
         "entity": "grand indecision",
-        "summary": "A location where people are shouting and calling for orderliness, situated near a side corridor where Lift is pressed against a wall."
+        "summary": "A location where people are shouting and calling for orderliness."
     },
     {
         "entity": "storms",
-        "summary": "Storms is the name Lift uses to address the boy she healed, who she believes has a head wound that may explain his unusual behavior. She expresses confusion over why she was able to heal him despite her inability to heal those with mental differences."
+        "summary": "Storms is the name Lift uses to address the boy she healed, who she believes may have a head wound that explains his unusual behavior. The text indicates that Lift struggles to understand why she was able to heal him despite her belief that she cannot heal people who are different in the head."
     },
     {
         "entity": "grand indishipium",
-        "summary": "The Grand Indishipium is a large structure featuring steps and ramps that people use to enter and exit, serving as a location where individuals seek shelter from the outside."
+        "summary": "The Grand Indishipium is a location that previously saw crowds of people moving up and down its steps and ramps, but now contains only a few stragglers who are quickly seeking shelter through its doorways."
     },
     {
         "entity": "lightweaver",
         "summary": "The Lightweaver is a presumed identity of an old philosopher known in the immigrant quarter who sits in a small amphitheater and talks to anyone who will listen."
     },
     {
-        "entity": "grand indigestion",
-        "summary": "The Grand Indigestion is the central rise of a city from which the urban landscape slopes away, serving as a key geographical feature for skidding and gaining speed."
+        "entity": "Grand Indigestion",
+        "summary": "The Grand Indigestion is a central rise within a city that slopes away from it, serving as a landmark for the mostly empty streets where the protagonist envisions skidding and gaining speed."
     },
     {
         "entity": "Nale",
@@ -421,39 +421,39 @@
     },
     {
         "entity": "siah",
-        "summary": "A Siah is a humanoid creature that the speaker can pass for, though they note that close inspection reveals something off about their appearance."
+        "summary": "Siah is a type of humanoid creature that the speaker can pass for, noting that while they resemble humans, observers find something off about them."
     },
     {
         "entity": "radiants",
-        "summary": "Radiants are a group mentioned alongside Darkness, Voidbringers, and other entities in a discussion about plans and conflicts."
+        "summary": "Radiants are a group mentioned alongside Darkness, Voidbringers, and other entities in a discussion regarding plans and conflict."
     },
     {
         "entity": "arclo",
-        "summary": "Arclo is a character who advises the speaker to tell other Sleepless individuals that they have spoken with him to gain sympathy, and later questions how a specific situation helps his philosophy."
+        "summary": "Arclo is a character who advises the speaker to tell other Sleepless individuals that they have spoken with him to gain sympathy, and later questions how a specific situation relates to his philosophy."
     },
     {
         "entity": "axies",
-        "summary": "According to the old Axies, this term refers to a state or condition that one must achieve to find purpose beyond the struggle to live after attaining immortality."
+        "summary": "According to the old Axies, these beings are associated with achieving immortality and finding purpose beyond the struggle to live."
     },
     {
         "entity": "nakku",
-        "summary": "Nakku is a character referred to as 'the Judge' and is also known by the alias 'Nin'. He is a figure being pursued by a madman named Nale, who is described as the Herald of Justice."
+        "summary": "Nakku is the title given to the Judge, a figure pursued by the Herald of Justice, Nale, who is described as a madman. The entity is also referred to by the alias Nin, though this name is associated with Nalan, the Herald, suggesting a potential confusion or alias usage within the immediate context."
     },
     {
-        "entity": "Herald of Justice",
-        "summary": "The Herald of Justice is an immortal being who has slain demigods and survived Desolations, claiming the title while wielding a Blade against a child. He is a figure pursued by Nale, who distinguishes himself from other entities by stating that the Herald of Justice is not the one Nale is chasing."
+        "entity": "herald of justice",
+        "summary": "A self-proclaimed immortal being who claims to have slain demigods and survived Desolations, asserting that he is the one stalking others to complete his task."
     },
     {
         "entity": "jezrien",
-        "summary": "Jezrien is a person mentioned alongside Ishar in a moment of despair where the speaker admits to having failed them."
+        "summary": "Jezrien is a person mentioned by the speaker as part of a list of names associated with a confession of failure regarding storms and Ishar."
     },
     {
         "entity": "shardfork",
-        "summary": "A large, shimmering, silvery fork summoned by Lift, which she refers to as a Shardfork."
+        "summary": "A large, shimmering, silvery fork summoned by Lift in the shape of a vine face named Wyndle."
     },
     {
         "entity": "spanreed",
-        "summary": "Spanreed is a medium used for transmitting messages, as the scribe refuses to share state secrets over it with Gawx."
+        "summary": "Spanreed is a secure communication channel or medium used to transmit state secrets, which the scribe refuses to share over due to the sensitive nature of the information."
     },
     {
         "entity": "huisi",

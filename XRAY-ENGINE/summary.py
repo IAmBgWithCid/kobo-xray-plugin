@@ -1,6 +1,9 @@
 import json
 import ollama
-
+import zlib      
+import hashlib   
+import struct
+import time
 
 def build_prompt(name, entity, entity_map): 
     # Safely get the top aliases
@@ -67,7 +70,9 @@ def generate_summary(name, entity, entity_map):
             format="json", # Forces strictly valid JSON parsing
             think=False,
             options={
-                "temperature": 0.1 # Low temperature keeps the model logical and prevents creative hallucinations
+                "temperature": 0.1, # Low temperature keeps the model logical and prevents creative hallucinations
+                "num_ctx": 2048,    # Reduce context window to save VRAM so it fits on the GPU
+                "num_predict": 150  # We only need a short summary, this saves VRAM allocation
             }
         )
 
@@ -78,21 +83,56 @@ def generate_summary(name, entity, entity_map):
         print(f"Error processing {name}: {e}")
         return {"entity": name, "summary": "Error generating summary."}
 
+def pack_to_sigil(final_xray_data, output_path):
+    print(f"\nSealing data into {output_path}...")
+    
+    # 1. Serialize and Compress
+    json_bytes = json.dumps(final_xray_data).encode('utf-8')
+    compressed_payload = zlib.compress(json_bytes)
+    
+    # 2. Create Checksum (Integrity)
+    checksum = hashlib.sha256(compressed_payload).digest()
+    
+    # 3. Build .sigil File: [Magic(4)][Version(1)][Checksum(32)][Payload]
+    with open(output_path, "wb") as f:
+        f.write(b"SIGL")             # Magic Number
+        f.write(struct.pack("B", 1)) # Version 1
+        f.write(checksum)            # 32-byte SHA-256
+        f.write(compressed_payload)
+    print("Seal Complete. File is ready for the Archive.")
+
  
 def generate_all_summaries(entity_map: dict, output_filename="XRAY_Final.json"):
     final_xray_data = []
     total_entities = len(entity_map)
-    current_count = 0
+    start_time = time.time()
 
-    print(f"\nStarting AI Generation for {total_entities} entities...")
+    print(f"\n[INCANTATION START]: Transmuting {total_entities} entities...")
 
-    for name, entity in entity_map.items():
-        current_count += 1
-        print(f"\rProcessing: {current_count}/{total_entities} -> [ {name} ]", end="", flush=True)
+    for i, (name, entity) in enumerate(entity_map.items(), 1):
+        # Calculate timing
+        elapsed = time.time() - start_time
+        avg_time_per_entity = elapsed / i
+        remaining_entities = total_entities - i
+        est_remaining_seconds = avg_time_per_entity * remaining_entities
+        
+        # Format for display: MM:SS
+        est_min, est_sec = divmod(int(est_remaining_seconds), 60)
+        
+        # CRYPTIC PROGRESS: Shows number, not name.
+        print(f"\rDecoding Entity {i}/{total_entities} | Est. Time Remaining: {est_min:02d}:{est_sec:02d} ", end="", flush=True)
+        
+        # Still pass the name to the AI, just don't print it!
         result = generate_summary(name, entity, entity_map)
         final_xray_data.append(result)
 
+    # Save the raw JSON (for local Calibre injection)
     with open(output_filename, "w", encoding="utf-8") as outfile:
         json.dump(final_xray_data, outfile, indent=4, ensure_ascii=False)
+        
+    # Create the secure .sigil version for the server
+    sigil_output_path = output_filename.replace(".json", ".sigil")
+    pack_to_sigil(final_xray_data, sigil_output_path)
 
-    print(f"\n\nSuccess! All summaries saved to {output_filename}")
+    print(f"\n\nSuccess! Summaries saved to {output_filename} and packed into {sigil_output_path}")
+    return sigil_output_path # We need to pass this to the upload script

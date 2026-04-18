@@ -1,8 +1,40 @@
 import string
 import nltk
+
+import thinc.util
+import torch
+from thinc.util import assert_pytorch_installed, get_torch_default_device
+
+# Patch thinc's xp2torch to fix cupy/torch dlpack incompatibility
+# Must be done BEFORE spacy is imported!
+_original_xp2torch = thinc.util.xp2torch
+def patched_xp2torch(xp_tensor, requires_grad=False, device=None):
+    assert_pytorch_installed()
+    if device is None:
+        device = get_torch_default_device()
+    if hasattr(xp_tensor, "__dlpack__"):
+        torch_tensor = torch.utils.dlpack.from_dlpack(xp_tensor)
+    elif hasattr(xp_tensor, "toDlpack"):
+        dlpack_tensor = xp_tensor.toDlpack()
+        torch_tensor = torch.utils.dlpack.from_dlpack(dlpack_tensor)
+    else:
+        torch_tensor = torch.from_numpy(xp_tensor)
+    torch_tensor = torch_tensor.to(device)
+    if requires_grad:
+        torch_tensor.requires_grad_()
+    return torch_tensor
+thinc.util.xp2torch = patched_xp2torch
+
 import spacy
 from Extractor import extract_chapters
 
+is_using_gpu = spacy.prefer_gpu()
+if is_using_gpu:
+    print("Using GPU!")
+    import thinc.api
+    thinc.api.use_pytorch_for_gpu_memory()
+else:
+    print("Using CPU!")
 nlp = spacy.load("en_core_web_trf")
 
 nltk.download('words', quiet=True)
