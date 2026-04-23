@@ -51,12 +51,12 @@ def build_prompt(name, entity, entity_map):
     
     return prompt
 
-def generate_summary(name, entity, entity_map):
+def generate_summary(name, entity, entity_map, model_name="llama3"):
     prompt = build_prompt(name, entity, entity_map)
     
     try:
         response = ollama.chat(
-            model="qwen3.5:9b",
+            model=model_name,
             messages=[
                 {
                     "role": "system", 
@@ -102,7 +102,7 @@ def pack_to_sigil(final_xray_data, output_path):
     print("Seal Complete. File is ready for the Archive.")
 
  
-def generate_all_summaries(entity_map: dict, output_filename="XRAY_Final.json"):
+def generate_all_summaries(entity_map: dict, output_filename="XRAY_Final.json", model_name="llama3"):
     final_xray_data = []
     total_entities = len(entity_map)
     start_time = time.time()
@@ -123,7 +123,7 @@ def generate_all_summaries(entity_map: dict, output_filename="XRAY_Final.json"):
         print(f"\rDecoding Entity {i}/{total_entities} | Est. Time Remaining: {est_min:02d}:{est_sec:02d} ", end="", flush=True)
         
         # Still pass the name to the AI, just don't print it!
-        result = generate_summary(name, entity, entity_map)
+        result = generate_summary(name, entity, entity_map, model_name)
         final_xray_data.append(result)
 
     # Save the raw JSON (for local Calibre injection)
